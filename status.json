@@ -3,11 +3,13 @@
   "status": "publicado",
   "publicado_em": "2026-10-14T10:13-03:00",
   "media_id": "18116720110974235",
-  "obs": "republicado com slide final corrigido; post de 13/10 apagado por Sergio"
+  "obs": "republicado com slide final corrigido; post de 13/10 apagado por Sergio",
+  "story": "pergunta (não publicado; o de 14/10 foi a capa antiga)"
  },
  "C002": {
   "status": "pronto",
   "publicado_em": null,
-  "media_id": null
+  "media_id": null,
+  "story": "pergunta"
  }
 }
