@@ -1,0 +1,7 @@
+Todo cabo USB-C é igual? Não. O plugue é o mesmo, mas por dentro um cabo pode transferir dados mais de 80 vezes mais devagar que outro.
+
+Em 26 anos de sala de aula, aprendi que a melhor explicação é a que você consegue usar no dia seguinte. Então aqui vai a regra prática: procure o número em Gbps na ficha técnica. Se não tiver, trate como 480 Mbps, o mais lento.
+
+Salve para consultar na hora de comprar e mande para quem vive reclamando que o cabo é lento.
+
+#usbc #tecnologia #dicasdetecnologia #professor
