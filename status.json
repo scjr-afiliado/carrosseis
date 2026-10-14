@@ -12,5 +12,13 @@
   "media_id": "18115268207519538",
   "story": "pergunta (publicado, media id 17917572735536415)",
   "obs": "1ª tentativa falhou com 'Media ID is not available'; publicado na 2ª, após novo 'publica'"
+ },
+ "C003": {
+  "status": "pronto",
+  "publicado_em": null,
+  "media_id": null,
+  "story": "pergunta",
+  "tipo": "produto",
+  "produto": "Logitech Pebble Mouse 2 M350s"
  }
 }
