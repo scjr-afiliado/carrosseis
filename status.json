@@ -20,5 +20,23 @@
   "story": "pergunta",
   "tipo": "produto",
   "produto": "Logitech Pebble Mouse 2 M350s"
+ },
+ "C004": {
+  "status": "pronto",
+  "publicado_em": null,
+  "media_id": null,
+  "story": "pergunta",
+  "tipo": "produto",
+  "produto": "Logitech M170",
+  "obs": "pedido de Sergio em 15/10: publicar ao aprovar (feito na sessão, fora da rotina das 10h)"
+ },
+ "C005": {
+  "status": "pronto",
+  "publicado_em": null,
+  "media_id": null,
+  "story": "pergunta",
+  "tipo": "produto",
+  "produto": "TP-Link TL-WA850RE",
+  "obs": "pedido de Sergio em 15/10: publicar às 18h (agendado na sessão, fora da rotina das 10h)"
  }
 }
