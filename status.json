@@ -31,12 +31,12 @@
   "obs": "refeito em 15/10; publicado com 'publica' de Sergio nesta sessão"
  },
  "C005": {
-  "status": "pronto",
-  "publicado_em": null,
-  "media_id": null,
-  "story": "pergunta",
+  "status": "publicado",
+  "publicado_em": "2026-10-15T18:15-03:00",
+  "media_id": "18102633068540156",
+  "story": "pergunta (publicado, media id 17990475828111224)",
   "tipo": "produto",
   "produto": "TP-Link TL-WA850RE",
-  "obs": "refeito em 15/10; Sergio aprovou (\"agenda CC5 para as 18h\") em 15/10 12:01 — tarefa agendada única às 18h"
+  "obs": "refeito em 15/10; tarefa das 18h bloqueada pelo classificador; publicado após 'publica CC5' de Sergio às 18:15. Story: 1ª tentativa deu 'resource does not exist', 2ª publicou"
  }
 }
