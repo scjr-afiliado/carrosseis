@@ -41,5 +41,12 @@
     "produto": "TP-Link TL-WA850RE",
     "obs": "refeito em 15/10; tarefa das 18h bloqueada pelo classificador; publicado após 'publica CC5' de Sergio às 18:15. Story: 1ª tentativa deu 'resource does not exist', 2ª publicou; tarefa das 18h rodou 18:00–18:02 e não atualizou o status; post apareceu no perfil às 18:16:15; não saiu no Facebook pelo compartilhamento automático; Facebook: não sai por compartilhamento automático quando a publicação vem pela API",
     "permalink": "https://www.instagram.com/p/Deh5w0NkZD0/"
+  },
+  "C006": {
+    "status": "pronto",
+    "publicado_em": null,
+    "media_id": null,
+    "story": "pergunta",
+    "tipo": "educativo"
   }
 }
