@@ -58,5 +58,14 @@
     "tipo": "produto",
     "produto": "Mercusys ME60X",
     "obs": "aprovado por Sergio em 19/10 23h52 ('pode agendar'); Story de pergunta acrescentado em 20/10 (gerar3)"
+  },
+  "C008": {
+    "status": "pronto",
+    "publicado_em": null,
+    "media_id": null,
+    "story": "pergunta",
+    "tipo": "educativo",
+    "produto": null,
+    "obs": "produzido pela tarefa automática de terça 20/10 (bateria: trava de 80%); revisor independente; sem IA"
   }
 }
