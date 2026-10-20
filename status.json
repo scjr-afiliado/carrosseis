@@ -54,9 +54,9 @@
     "status": "pronto",
     "publicado_em": null,
     "media_id": null,
-    "story": null,
+    "story": "pergunta",
     "tipo": "produto",
     "produto": "Mercusys ME60X",
-    "obs": "aprovado por Sergio em 19/10 23h52 ('pode agendar'); sem Story de pergunta (gerar3 ainda não gera story.jpg): publicar só o carrossel"
+    "obs": "aprovado por Sergio em 19/10 23h52 ('pode agendar'); Story de pergunta acrescentado em 20/10 (gerar3)"
   }
 }
