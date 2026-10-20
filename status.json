@@ -49,5 +49,14 @@
     "story": "pergunta (publicado, media id 17871456303641892)",
     "tipo": "educativo",
     "obs": "publicado com 'publica' de Sergio em 19/10; capa diz '3 coisas' e slide 9 lista 4 (apontado na prévia, Sergio aprovou assim). Perfil não conferido pelo navegador (indisponível na nuvem); confirmado pelo media id do Windsor"
+  },
+  "C007": {
+    "status": "pronto",
+    "publicado_em": null,
+    "media_id": null,
+    "story": null,
+    "tipo": "produto",
+    "produto": "Mercusys ME60X",
+    "obs": "aprovado por Sergio em 19/10 23h52 ('pode agendar'); sem Story de pergunta (gerar3 ainda não gera story.jpg): publicar só o carrossel"
   }
 }
