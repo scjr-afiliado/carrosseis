@@ -60,12 +60,12 @@
     "obs": "aprovado por Sergio em 19/10 23h52 ('pode agendar'); Story de pergunta acrescentado em 20/10 (gerar3)"
   },
   "C008": {
-    "status": "pronto",
-    "publicado_em": null,
-    "media_id": null,
-    "story": "pergunta",
+    "status": "publicado",
+    "publicado_em": "2026-10-20T09:10-03:00",
+    "media_id": "18117115949042191",
+    "story": "pergunta (publicado, media id 18126523933851034)",
     "tipo": "educativo",
     "produto": null,
-    "obs": "produzido pela tarefa automática de terça 20/10 (bateria: trava de 80%); revisor independente; sem IA"
+    "obs": "publicado com 'publica' de Sergio em 20/10 (na conversa da tarefa automática, antes da aprovação das 9h55); bateria, trava de 80%; revisor independente; sem IA"
   }
 }
