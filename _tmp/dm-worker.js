@@ -84,9 +84,19 @@ async function processar(dados, env) {
       if (!comentarioId || !autorId || autorId === contaId) continue; // ignora o próprio perfil
       if (v.parent_id) continue;                                      // ignora resposta a comentário
 
-      const chave = acharPalavra(v.text || "", palavras, v.media && v.media.id);
+      // Modo 1 (preferido, 21/10/2026): uma palavra fixa para todos os posts (KV "gatilhos", ex. ["QUERO"]);
+      // o produto sai do post comentado (KV "posts": {media_id: {produto, link}}).
+      // Modo 2: palavra própria por produto (KV "palavras").
+      const midiaId = v.media && v.media.id;
+      const posts = JSON.parse((await env.DM.get("posts")) || "{}");
+      const gatilhos = JSON.parse((await env.DM.get("gatilhos")) || "[]");
+      let chave = null, cfg = null;
+      if (posts[midiaId] && gatilhos.length) {
+        const g = acharPalavra(v.text || "", Object.fromEntries(gatilhos.map((w) => [w, {}])), midiaId);
+        if (g) { chave = g; cfg = posts[midiaId]; }
+      }
+      if (!chave) { chave = acharPalavra(v.text || "", palavras, midiaId); cfg = chave && palavras[chave]; }
       if (!chave) continue;
-      const cfg = palavras[chave];
 
       // Uma vez por comentário e, no máximo, uma DM por pessoa por palavra a cada 7 dias
       if (await env.DM.get(`c:${comentarioId}`)) continue;
