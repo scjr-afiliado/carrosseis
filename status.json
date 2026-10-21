@@ -51,13 +51,14 @@
     "obs": "publicado com 'publica' de Sergio em 19/10; capa diz '3 coisas' e slide 9 lista 4 (apontado na prévia, Sergio aprovou assim). Perfil não conferido pelo navegador (indisponível na nuvem); confirmado pelo media id do Windsor"
   },
   "C007": {
-    "status": "pronto",
-    "publicado_em": null,
-    "media_id": null,
-    "story": "pergunta",
+    "status": "publicado",
+    "publicado_em": "2026-10-21T09:58-03:00",
+    "media_id": "18082027112351717",
+    "story": "pergunta (publicado, media id 17958223539253469)",
     "tipo": "produto",
     "produto": "Mercusys ME60X",
-    "obs": "aprovado por Sergio em 19/10 23h52 ('pode agendar'); Story de pergunta acrescentado em 20/10 (gerar3)"
+    "obs": "aprovado por Sergio em 19/10 23h52 ('pode agendar'); Story de pergunta acrescentado em 20/10 (gerar3); publicado com 'publica' de Sergio em 21/10 na tarefa das 9h55. Perfil não conferido pelo navegador (indisponível na nuvem); confirmado pelo media id e pelo permalink do Windsor",
+    "permalink": "https://www.instagram.com/p/DewdtnZAkWf/"
   },
   "C008": {
     "status": "publicado",
