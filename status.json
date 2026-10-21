@@ -67,5 +67,15 @@
     "tipo": "educativo",
     "produto": null,
     "obs": "publicado com 'publica' de Sergio em 20/10 (na conversa da tarefa automática, antes da aprovação das 9h55); bateria, trava de 80%; revisor independente; sem IA"
+  },
+  "R001": {
+    "status": "pronto",
+    "tipo": "reels",
+    "produto": "Logitech Mobi Fold",
+    "arquivo": "reels/R001-mobi-fold/reels.mp4",
+    "capa": "reels/R001-mobi-fold/capa.jpg",
+    "publicado_em": null,
+    "media_id": null,
+    "obs": "v10 narrado por Sergio (Clipchamp), aprovado por ele em 20/10 23h20; publicar com create_video_post só após 'publica'"
   }
 }
