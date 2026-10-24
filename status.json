@@ -80,13 +80,22 @@
     "obs": "v10 narrado por Sergio (Clipchamp), aprovado por ele em 20/10 23h20; publicar com create_video_post só após 'publica'; publicado MANUALMENTE por Sergio pelo app em 20/10 (~23h30–0h) no Instagram, Facebook e YouTube; media_id não registrado"
   },
   "C009": {
-    "status": "reserva",
-    "publicado_em": null,
-    "media_id": null,
+    "status": "publicado",
+    "publicado_em": "2026-10-23",
+    "media_id": "17986473480095620",
     "story": "pergunta",
     "tipo": "produto",
     "produto": "Logitech M170",
     "produto_id": "P002",
-    "obs": "produzido pela tarefa automática de 22/10/2026 (6h55); revisor independente; fotos oficiais Logitech + ilustrações próprias; sem IA; 22/10 10h45: tirado da fila por Sergio (produto já anunciado e sem o slide fecho com a foto). Antes de usar: acrescentar o fecho."
+    "obs": "produzido pela tarefa automática de 22/10/2026 (6h55); revisor independente; fotos oficiais Logitech + ilustrações próprias; sem IA; 22/10 10h45: tirado da fila por Sergio (produto já anunciado e sem o slide fecho com a foto). Antes de usar: acrescentar o fecho.; publicado manualmente por Sergio em 23/10 (10 slides, com fecho)"
+  },
+  "R002": {
+    "status": "publicado",
+    "tipo": "reels",
+    "produto": "Samsung Galaxy Fit3",
+    "produto_id": "P013",
+    "publicado_em": "2026-10-23",
+    "media_id": "18397987957206375",
+    "obs": "feito e publicado manualmente por Sergio"
   }
 }
