@@ -99,13 +99,13 @@
     "obs": "feito e publicado manualmente por Sergio"
   },
   "C010": {
-    "status": "pronto",
-    "publicado_em": null,
-    "media_id": null,
-    "story": "pergunta",
+    "status": "publicado",
+    "publicado_em": "2026-10-25T10:05-03:00",
+    "media_id": "18114027452149173",
+    "story": "pergunta (publicado, media id 18050995622817642)",
     "tipo": "produto",
     "produto": "Roku Streaming Stick HD",
     "produto_id": "P006",
-    "obs": "v2 de 25/10/2026: refeito após reprovação de Sergio da v1 (era checklist sem benefício). Antes/depois, o que o stick faz, controle de voz, 4 passos. Revisor independente; foto oficial Roku + ilustrações próprias, sem IA. Modelo brasileiro conferido por Sergio (PDF da página): HDMI direto e até 1080p."
+    "obs": "v2 de 25/10/2026: refeito após reprovação de Sergio da v1 (era checklist sem benefício). Antes/depois, o que o stick faz, controle de voz, 4 passos. Revisor independente; foto oficial Roku + ilustrações próprias, sem IA. Modelo brasileiro conferido por Sergio (PDF da página): HDMI direto e até 1080p. Publicado com \"publica\" de Sergio em 25/10 (execução extra de domingo)."
   }
 }
