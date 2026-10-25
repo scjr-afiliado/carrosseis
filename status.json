@@ -97,5 +97,15 @@
     "publicado_em": "2026-10-23",
     "media_id": "18397987957206375",
     "obs": "feito e publicado manualmente por Sergio"
+  },
+  "C010": {
+    "status": "pronto",
+    "publicado_em": null,
+    "media_id": null,
+    "story": "pergunta",
+    "tipo": "produto",
+    "produto": "Roku Streaming Stick HD",
+    "produto_id": "P006",
+    "obs": "produzido pela tarefa automática de 25/10/2026; revisor independente; foto oficial Roku + ilustrações próprias, sem IA. ANTES DO 'PUBLICA': Sergio confere na página da Amazon que o modelo vendido (3840BR) tem HDMI direto e 1080p (ficha oficial consultada é a global 3840R)"
   }
 }
