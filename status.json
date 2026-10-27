@@ -117,5 +117,15 @@
     "produto": "Carregador Duracell + 4 pilhas AA",
     "produto_id": "P008",
     "tema": "Educação para o Consumo / Educação Ambiental (logística reversa de pilhas) + Educação Financeira"
+  },
+  "C012": {
+    "status": "pronto",
+    "publicado_em": null,
+    "media_id": null,
+    "story": "Você já somou os watts da tomada atrás da TV?",
+    "tipo": "produto",
+    "produto": "iCLAMPER Energia 5",
+    "produto_id": "P010",
+    "tema": "Educação para o Consumo / segurança elétrica em casa (conta de watts)"
   }
 }
