@@ -119,13 +119,15 @@
     "tema": "Educação para o Consumo / Educação Ambiental (logística reversa de pilhas) + Educação Financeira"
   },
   "C012": {
-    "status": "pronto",
-    "publicado_em": null,
+    "status": "publicado",
+    "publicado_em": "2026-10-27T09:08-03:00",
     "media_id": null,
     "story": "Você já somou os watts da tomada atrás da TV?",
     "tipo": "produto",
     "produto": "iCLAMPER Energia 5",
     "produto_id": "P010",
-    "tema": "Educação para o Consumo / segurança elétrica em casa (conta de watts)"
+    "tema": "Educação para o Consumo / segurança elétrica em casa (conta de watts)",
+    "permalink": "https://www.instagram.com/p/De_0tZ8jBP-/",
+    "obs": "publicado com 'publica' de Sergio em 27/10 pelo Metricool (post id 407739701); Story de pergunta publicado 09:12 (id 407739868, https://www.instagram.com/stories/sergiojcjr/4017162826787400256). media_id: pendente de sincronizar no Metricool"
   }
 }
