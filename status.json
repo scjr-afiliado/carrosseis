@@ -1,133 +1,143 @@
 {
-  "C001": {
-    "status": "publicado",
-    "publicado_em": "2026-10-14T10:13-03:00",
-    "media_id": "18116720110974235",
-    "obs": "republicado com slide final corrigido; post de 13/10 apagado por Sergio",
-    "story": "pergunta (não publicado; o de 14/10 foi a capa antiga)"
-  },
-  "C002": {
-    "status": "publicado",
-    "publicado_em": "2026-10-14T17:41-03:00",
-    "media_id": "18115268207519538",
-    "story": "pergunta (publicado, media id 17917572735536415)",
-    "obs": "1ª tentativa falhou com 'Media ID is not available'; publicado na 2ª, após novo 'publica'"
-  },
-  "C003": {
-    "status": "publicado",
-    "publicado_em": "2026-10-18T12:28-03:00",
-    "media_id": "18100223555420320",
-    "story": "pergunta (publicado, media id 18337040053278055)",
-    "tipo": "produto",
-    "produto": "Logitech Pebble Mouse 2 M350s",
-    "permalink": "https://www.instagram.com/p/DepAaomjh40/",
-    "obs": "aprovação de 16/10 falhou por limite de uso; reposta em 18/10, publicado com 'publica' de Sergio. Perfil não conferido pelo navegador (instagram.com bloqueado na rede da nuvem); confirmado pelo Windsor"
-  },
-  "C004": {
-    "status": "publicado",
-    "publicado_em": "2026-10-15T12:03-03:00",
-    "media_id": "17863580529695508",
-    "story": "pergunta (publicado, media id 18078264989727161)",
-    "tipo": "produto",
-    "produto": "Logitech M170",
-    "obs": "refeito em 15/10; publicado com 'publica' de Sergio nesta sessão"
-  },
-  "C005": {
-    "status": "publicado",
-    "publicado_em": "2026-10-15T18:16:15-03:00",
-    "media_id": "18102633068540156",
-    "story": "pergunta — publicado (Sergio confirmou às 18:35)",
-    "tipo": "produto",
-    "produto": "TP-Link TL-WA850RE",
-    "obs": "refeito em 15/10; tarefa das 18h bloqueada pelo classificador; publicado após 'publica CC5' de Sergio às 18:15. Story: 1ª tentativa deu 'resource does not exist', 2ª publicou; tarefa das 18h rodou 18:00–18:02 e não atualizou o status; post apareceu no perfil às 18:16:15; não saiu no Facebook pelo compartilhamento automático; Facebook: não sai por compartilhamento automático quando a publicação vem pela API",
-    "permalink": "https://www.instagram.com/p/Deh5w0NkZD0/"
-  },
-  "C006": {
-    "status": "publicado",
-    "publicado_em": "2026-10-19T10:14-03:00",
-    "media_id": "18054137306593004",
-    "story": "pergunta (publicado, media id 17871456303641892)",
-    "tipo": "educativo",
-    "obs": "publicado com 'publica' de Sergio em 19/10; capa diz '3 coisas' e slide 9 lista 4 (apontado na prévia, Sergio aprovou assim). Perfil não conferido pelo navegador (indisponível na nuvem); confirmado pelo media id do Windsor"
-  },
-  "C007": {
-    "status": "publicado",
-    "publicado_em": "2026-10-21T09:58-03:00",
-    "media_id": "18082027112351717",
-    "story": "pergunta (publicado, media id 17958223539253469)",
-    "tipo": "produto",
-    "produto": "Mercusys ME60X",
-    "obs": "aprovado por Sergio em 19/10 23h52 ('pode agendar'); Story de pergunta acrescentado em 20/10 (gerar3); publicado com 'publica' de Sergio em 21/10 na tarefa das 9h55. Perfil não conferido pelo navegador (indisponível na nuvem); confirmado pelo media id e pelo permalink do Windsor",
-    "permalink": "https://www.instagram.com/p/DewdtnZAkWf/"
-  },
-  "C008": {
-    "status": "publicado",
-    "publicado_em": "2026-10-20T09:10-03:00",
-    "media_id": "18117115949042191",
-    "story": "pergunta (publicado, media id 18126523933851034)",
-    "tipo": "educativo",
-    "produto": null,
-    "obs": "publicado com 'publica' de Sergio em 20/10 (na conversa da tarefa automática, antes da aprovação das 9h55); bateria, trava de 80%; revisor independente; sem IA"
-  },
-  "R001": {
-    "status": "publicado",
-    "tipo": "reels",
-    "produto": "Logitech Mobi Fold",
-    "arquivo": "reels/R001-mobi-fold/reels.mp4",
-    "capa": "reels/R001-mobi-fold/capa.jpg",
-    "publicado_em": "2026-10-20T23:59-03:00",
-    "media_id": "17945271057088367",
-    "obs": "v10 narrado por Sergio (Clipchamp), aprovado por ele em 20/10 23h20; publicar com create_video_post só após 'publica'; publicado MANUALMENTE por Sergio pelo app em 20/10 (~23h30–0h) no Instagram, Facebook e YouTube; media_id não registrado"
-  },
-  "C009": {
-    "status": "publicado",
-    "publicado_em": "2026-10-23",
-    "media_id": "17986473480095620",
-    "story": "pergunta",
-    "tipo": "produto",
-    "produto": "Logitech M170",
-    "produto_id": "P002",
-    "obs": "produzido pela tarefa automática de 22/10/2026 (6h55); revisor independente; fotos oficiais Logitech + ilustrações próprias; sem IA; 22/10 10h45: tirado da fila por Sergio (produto já anunciado e sem o slide fecho com a foto). Antes de usar: acrescentar o fecho.; publicado manualmente por Sergio em 23/10 (10 slides, com fecho)"
-  },
-  "R002": {
-    "status": "publicado",
-    "tipo": "reels",
-    "produto": "Samsung Galaxy Fit3",
-    "produto_id": "P013",
-    "publicado_em": "2026-10-23",
-    "media_id": "18397987957206375",
-    "obs": "feito e publicado manualmente por Sergio"
-  },
-  "C010": {
-    "status": "publicado",
-    "publicado_em": "2026-10-25T10:50-03:00",
-    "media_id": "18114027452149173",
-    "story": "pergunta (publicado, media id 18050995622817642)",
-    "tipo": "produto",
-    "produto": "Roku Streaming Stick HD",
-    "produto_id": "P006",
-    "obs": "v2 de 25/10/2026: refeito após reprovação de Sergio da v1 (era checklist sem benefício). Antes/depois, o que o stick faz, controle de voz, 4 passos. Revisor independente; foto oficial Roku + ilustrações próprias, sem IA. Modelo brasileiro conferido por Sergio (PDF da página): HDMI direto e até 1080p. Publicado com \"publica\" de Sergio em 25/10 (execução extra de domingo)."
-  },
-  "C011": {
-    "status": "publicado",
-    "publicado_em": "2026-10-26T10:07-03:00",
-    "media_id": "18030947543909939",
-    "story": "pergunta (publicado, media id 18117943262282277)",
-    "tipo": "produto",
-    "produto": "Carregador Duracell + 4 pilhas AA",
-    "produto_id": "P008",
-    "tema": "Educação para o Consumo / Educação Ambiental (logística reversa de pilhas) + Educação Financeira"
-  },
-  "C012": {
-    "status": "publicado",
-    "publicado_em": "2026-10-27T09:08-03:00",
-    "media_id": "17945271057088367",
-    "story": "Você já somou os watts da tomada atrás da TV?",
-    "tipo": "produto",
-    "produto": "iCLAMPER Energia 5",
-    "produto_id": "P010",
-    "tema": "Educação para o Consumo / segurança elétrica em casa (conta de watts)",
-    "permalink": "https://www.instagram.com/p/De_0tZ8jBP-/",
-    "obs": "publicado com 'publica' de Sergio em 27/10 pelo Metricool (post id 407739701); Story de pergunta publicado 09:12 (id 407739868, https://www.instagram.com/stories/sergiojcjr/4017162826787400256). media_id conferido pelo Windsor (leitura)"
-  }
+ "C001": {
+  "status": "publicado",
+  "publicado_em": "2026-10-14T10:13-03:00",
+  "media_id": "18116720110974235",
+  "obs": "republicado com slide final corrigido; post de 13/10 apagado por Sergio",
+  "story": "pergunta (não publicado; o de 14/10 foi a capa antiga)"
+ },
+ "C002": {
+  "status": "publicado",
+  "publicado_em": "2026-10-14T17:41-03:00",
+  "media_id": "18115268207519538",
+  "story": "pergunta (publicado, media id 17917572735536415)",
+  "obs": "1ª tentativa falhou com 'Media ID is not available'; publicado na 2ª, após novo 'publica'"
+ },
+ "C003": {
+  "status": "publicado",
+  "publicado_em": "2026-10-18T12:28-03:00",
+  "media_id": "18100223555420320",
+  "story": "pergunta (publicado, media id 18337040053278055)",
+  "tipo": "produto",
+  "produto": "Logitech Pebble Mouse 2 M350s",
+  "permalink": "https://www.instagram.com/p/DepAaomjh40/",
+  "obs": "aprovação de 16/10 falhou por limite de uso; reposta em 18/10, publicado com 'publica' de Sergio. Perfil não conferido pelo navegador (instagram.com bloqueado na rede da nuvem); confirmado pelo Windsor"
+ },
+ "C004": {
+  "status": "publicado",
+  "publicado_em": "2026-10-15T12:03-03:00",
+  "media_id": "17863580529695508",
+  "story": "pergunta (publicado, media id 18078264989727161)",
+  "tipo": "produto",
+  "produto": "Logitech M170",
+  "obs": "refeito em 15/10; publicado com 'publica' de Sergio nesta sessão"
+ },
+ "C005": {
+  "status": "publicado",
+  "publicado_em": "2026-10-15T18:16:15-03:00",
+  "media_id": "18102633068540156",
+  "story": "pergunta — publicado (Sergio confirmou às 18:35)",
+  "tipo": "produto",
+  "produto": "TP-Link TL-WA850RE",
+  "obs": "refeito em 15/10; tarefa das 18h bloqueada pelo classificador; publicado após 'publica CC5' de Sergio às 18:15. Story: 1ª tentativa deu 'resource does not exist', 2ª publicou; tarefa das 18h rodou 18:00–18:02 e não atualizou o status; post apareceu no perfil às 18:16:15; não saiu no Facebook pelo compartilhamento automático; Facebook: não sai por compartilhamento automático quando a publicação vem pela API",
+  "permalink": "https://www.instagram.com/p/Deh5w0NkZD0/"
+ },
+ "C006": {
+  "status": "publicado",
+  "publicado_em": "2026-10-19T10:14-03:00",
+  "media_id": "18054137306593004",
+  "story": "pergunta (publicado, media id 17871456303641892)",
+  "tipo": "educativo",
+  "obs": "publicado com 'publica' de Sergio em 19/10; capa diz '3 coisas' e slide 9 lista 4 (apontado na prévia, Sergio aprovou assim). Perfil não conferido pelo navegador (indisponível na nuvem); confirmado pelo media id do Windsor"
+ },
+ "C007": {
+  "status": "publicado",
+  "publicado_em": "2026-10-21T09:58-03:00",
+  "media_id": "18082027112351717",
+  "story": "pergunta (publicado, media id 17958223539253469)",
+  "tipo": "produto",
+  "produto": "Mercusys ME60X",
+  "obs": "aprovado por Sergio em 19/10 23h52 ('pode agendar'); Story de pergunta acrescentado em 20/10 (gerar3); publicado com 'publica' de Sergio em 21/10 na tarefa das 9h55. Perfil não conferido pelo navegador (indisponível na nuvem); confirmado pelo media id e pelo permalink do Windsor",
+  "permalink": "https://www.instagram.com/p/DewdtnZAkWf/"
+ },
+ "C008": {
+  "status": "publicado",
+  "publicado_em": "2026-10-20T09:10-03:00",
+  "media_id": "18117115949042191",
+  "story": "pergunta (publicado, media id 18126523933851034)",
+  "tipo": "educativo",
+  "produto": null,
+  "obs": "publicado com 'publica' de Sergio em 20/10 (na conversa da tarefa automática, antes da aprovação das 9h55); bateria, trava de 80%; revisor independente; sem IA"
+ },
+ "R001": {
+  "status": "publicado",
+  "tipo": "reels",
+  "produto": "Logitech Mobi Fold",
+  "arquivo": "reels/R001-mobi-fold/reels.mp4",
+  "capa": "reels/R001-mobi-fold/capa.jpg",
+  "publicado_em": "2026-10-20T23:59-03:00",
+  "media_id": "17945271057088367",
+  "obs": "v10 narrado por Sergio (Clipchamp), aprovado por ele em 20/10 23h20; publicar com create_video_post só após 'publica'; publicado MANUALMENTE por Sergio pelo app em 20/10 (~23h30–0h) no Instagram, Facebook e YouTube; media_id não registrado"
+ },
+ "C009": {
+  "status": "publicado",
+  "publicado_em": "2026-10-23",
+  "media_id": "17986473480095620",
+  "story": "pergunta",
+  "tipo": "produto",
+  "produto": "Logitech M170",
+  "produto_id": "P002",
+  "obs": "produzido pela tarefa automática de 22/10/2026 (6h55); revisor independente; fotos oficiais Logitech + ilustrações próprias; sem IA; 22/10 10h45: tirado da fila por Sergio (produto já anunciado e sem o slide fecho com a foto). Antes de usar: acrescentar o fecho.; publicado manualmente por Sergio em 23/10 (10 slides, com fecho)"
+ },
+ "R002": {
+  "status": "publicado",
+  "tipo": "reels",
+  "produto": "Samsung Galaxy Fit3",
+  "produto_id": "P013",
+  "publicado_em": "2026-10-23",
+  "media_id": "18397987957206375",
+  "obs": "feito e publicado manualmente por Sergio"
+ },
+ "C010": {
+  "status": "publicado",
+  "publicado_em": "2026-10-25T10:50-03:00",
+  "media_id": "18114027452149173",
+  "story": "pergunta (publicado, media id 18050995622817642)",
+  "tipo": "produto",
+  "produto": "Roku Streaming Stick HD",
+  "produto_id": "P006",
+  "obs": "v2 de 25/10/2026: refeito após reprovação de Sergio da v1 (era checklist sem benefício). Antes/depois, o que o stick faz, controle de voz, 4 passos. Revisor independente; foto oficial Roku + ilustrações próprias, sem IA. Modelo brasileiro conferido por Sergio (PDF da página): HDMI direto e até 1080p. Publicado com \"publica\" de Sergio em 25/10 (execução extra de domingo)."
+ },
+ "C011": {
+  "status": "publicado",
+  "publicado_em": "2026-10-26T10:07-03:00",
+  "media_id": "18030947543909939",
+  "story": "pergunta (publicado, media id 18117943262282277)",
+  "tipo": "produto",
+  "produto": "Carregador Duracell + 4 pilhas AA",
+  "produto_id": "P008",
+  "tema": "Educação para o Consumo / Educação Ambiental (logística reversa de pilhas) + Educação Financeira"
+ },
+ "C012": {
+  "status": "publicado",
+  "publicado_em": "2026-10-27T09:08-03:00",
+  "media_id": "17945271057088367",
+  "story": "Você já somou os watts da tomada atrás da TV?",
+  "tipo": "produto",
+  "produto": "iCLAMPER Energia 5",
+  "produto_id": "P010",
+  "tema": "Educação para o Consumo / segurança elétrica em casa (conta de watts)",
+  "permalink": "https://www.instagram.com/p/De_0tZ8jBP-/",
+  "obs": "publicado com 'publica' de Sergio em 27/10 pelo Metricool (post id 407739701); Story de pergunta publicado 09:12 (id 407739868, https://www.instagram.com/stories/sergiojcjr/4017162826787400256). media_id conferido pelo Windsor (leitura)"
+ },
+ "C013": {
+  "status": "pronto",
+  "publicado_em": null,
+  "media_id": null,
+  "story": "Você já pensou em trocar de notebook por causa de um incômodo só?",
+  "tipo": "produto",
+  "produto": "Dell KM3322W",
+  "produto_id": "P011",
+  "tema": "Educação para o Consumo / Educação Financeira (achar o incômodo antes de trocar o notebook)"
+ }
 }
