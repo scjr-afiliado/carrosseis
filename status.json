@@ -131,13 +131,15 @@
   "obs": "publicado com 'publica' de Sergio em 27/10 pelo Metricool (post id 407739701); Story de pergunta publicado 09:12 (id 407739868, https://www.instagram.com/stories/sergiojcjr/4017162826787400256). media_id conferido pelo Windsor (leitura)"
  },
  "C013": {
-  "status": "pronto",
-  "publicado_em": null,
+  "status": "publicado",
+  "publicado_em": "2026-10-28T09:02-03:00",
   "media_id": null,
   "story": "Você já pensou em trocar de notebook por causa de um incômodo só?",
   "tipo": "produto",
   "produto": "Dell KM3322W",
   "produto_id": "P011",
-  "tema": "Educação para o Consumo / Educação Financeira (achar o incômodo antes de trocar o notebook)"
+  "tema": "Educação para o Consumo / Educação Financeira (achar o incômodo antes de trocar o notebook)",
+  "permalink": "https://www.instagram.com/p/DfCZCJLCcmk/",
+  "obs": "publicado com 'publica' de Sergio em 28/10 pelo Metricool (post id 408859212); Story de pergunta 09:06 (id 408859274, https://www.instagram.com/stories/sergiojcjr/4017884576285996878). media_id PENDENTE (Metricool IGPO25 e Windsor ainda sem o post às 09:10); sem ele o QUERO nao dispara neste post"
  }
 }
