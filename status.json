@@ -140,5 +140,15 @@
   "tema": "Educação para o Consumo / Educação Financeira (achar o incômodo antes de trocar o notebook)",
   "permalink": "https://www.instagram.com/p/DfCZCJLCcmk/",
   "obs": "publicado com 'publica' de Sergio em 28/10 pelo Metricool (post id 408859212); Story de pergunta 09:06 (id 408859274, https://www.instagram.com/stories/sergiojcjr/4017884576285996878). media_id conferido pelo Windsor (leitura) em 28/10 09:45"
+ },
+ "C014": {
+  "status": "pronto",
+  "programa": "shopee",
+  "tipo": "produto",
+  "produto": "Anker Soundcore P30i",
+  "produto_papel": "isca",
+  "tema": "Ciência e Tecnologia (BNCC): como o cancelamento de ruído funciona",
+  "story": "Fone com cancelamento de ruído apaga todo o barulho?",
+  "obs": "produzido em 01/11/2026 pela tarefa autônoma; programa Shopee (legenda com a frase da Shopee, sem a da Amazon); link em operacao/shopee/links.json (subIds instagram,C014); aguarda 'publica' de Sergio; sem media_id"
  }
 }
