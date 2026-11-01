@@ -142,13 +142,16 @@
   "obs": "publicado com 'publica' de Sergio em 28/10 pelo Metricool (post id 408859212); Story de pergunta 09:06 (id 408859274, https://www.instagram.com/stories/sergiojcjr/4017884576285996878). media_id conferido pelo Windsor (leitura) em 28/10 09:45"
  },
  "C014": {
-  "status": "pronto",
+  "status": "publicado",
   "programa": "shopee",
   "tipo": "produto",
   "produto": "Anker Soundcore P30i",
   "produto_papel": "isca",
   "tema": "Ciência e Tecnologia (BNCC): como o cancelamento de ruído funciona",
   "story": "Fone com cancelamento de ruído apaga todo o barulho?",
-  "obs": "produzido em 01/11/2026 pela tarefa autônoma; programa Shopee (legenda com a frase da Shopee, sem a da Amazon); link em operacao/shopee/links.json (subIds instagram,C014); aguarda 'publica' de Sergio; sem media_id"
+  "publicado_em": "2026-11-01T10:29-03:00",
+  "media_id": "18031899623688581",
+  "permalink": "https://www.instagram.com/p/DfM1ynPDuYF/",
+  "obs": "publicado em 01/11/2026 10:29 pela Action publicar-instagram (API oficial, exige a confirmação 'publica'; Story id 18076192739738574; QUERO ativo; registro em operacao/publicacoes/C014.json, branch operacao); programa Shopee (legenda com a frase da Shopee, sem a da Amazon); link em operacao/shopee/links.json (subIds instagram,C014). status.json corrigido à mão em 01/11 ~12h20: a Action não escreve neste arquivo"
  }
 }
