@@ -153,5 +153,14 @@
   "media_id": "18031899623688581",
   "permalink": "https://www.instagram.com/p/DfM1ynPDuYF/",
   "obs": "publicado em 01/11/2026 10:29 pela Action publicar-instagram (API oficial, exige a confirmação 'publica'; Story id 18076192739738574; QUERO ativo; registro em operacao/publicacoes/C014.json, branch operacao); programa Shopee (legenda com a frase da Shopee, sem a da Amazon); link em operacao/shopee/links.json (subIds instagram,C014). status.json corrigido à mão em 01/11 ~12h20: a Action não escreve neste arquivo"
+ },
+ "R003": {
+  "status": "publicado",
+  "tipo": "reels",
+  "produto": null,
+  "arquivo": "reels/R003-links-bio/reel.mp4",
+  "publicado_em": "2026-11-01T16:15-03:00",
+  "permalink": "https://www.instagram.com/reel/DfNdfMskzXa/",
+  "obs": "Reel de autopromoção \"links da bio\" (avatar estilo Pixar, voz de Sergio, rótulo de IA), publicado em 01/11 pelo Metricool com 'publica' de Sergio; legenda sem #publi por decisão dele (não anuncia produto). Não é post de produto: sem QUERO. media_id não registrado. Pasta renomeada de R002-links-bio para R003 em 01/11 (R002 é o Reel do Fit3)."
  }
 }
