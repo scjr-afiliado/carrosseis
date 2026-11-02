@@ -164,15 +164,17 @@
   "obs": "Reel de autopromoção \"links da bio\" (avatar estilo Pixar, voz de Sergio, rótulo de IA), publicado em 01/11 pelo Metricool com 'publica' de Sergio; legenda sem #publi por decisão dele (não anuncia produto). Não é post de produto: sem QUERO. media_id não registrado. Pasta renomeada de R002-links-bio para R003 em 01/11 (R002 é o Reel do Fit3)."
  },
  "C015": {
-  "status": "pronto",
-  "publicado_em": null,
-  "media_id": null,
+  "status": "publicado",
   "story": "Você sabe quais aparelhos estão no seu Bluetooth?",
   "tipo": "produto",
   "produto": "Logitech M240 Silent",
   "produto_id": "P015",
   "tema": "Ciência e Tecnologia: cuidados oficiais com o Bluetooth (CERT.br)",
   "programa": "amazon",
-  "ia": false
+  "ia": false,
+  "publicado_em": "2026-11-02T10:16-03:00",
+  "media_id": "18106110977370257",
+  "permalink": "https://www.instagram.com/p/DfPZH3UHH2u/",
+  "obs": "publicado em 02/11/2026 10:16 pela Action painel-dados (a partir do registro pub: do Worker) (API oficial); Story id 17910099756580185; QUERO ativo. Status gravado pela própria Action (fechar_status.py)."
  }
 }
