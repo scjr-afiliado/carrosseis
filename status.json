@@ -194,15 +194,17 @@
   "obs": "publicado em 03/11/2026 10:27 pela Action painel-dados (a partir do registro pub: do Worker) (API oficial); Story id 17969755971190623; QUERO ativo. Status gravado pela própria Action (fechar_status.py). Antes da publicação: liberado pela Action painel-dados em 2026-11-03T11:40:04+00:00: link na planilha, produto na vitrine com foto válida e modelo/cor conferidos por Sergio"
  },
  "C017": {
-  "status": "pronto",
-  "publicado_em": null,
-  "media_id": null,
+  "status": "publicado",
   "story": "Você já escolheu um fone pelas horas do anúncio?",
   "tipo": "produto",
   "produto": "Philips TAT1109 (branco)",
   "produto_id": "P009",
   "tema": "Educação para o Consumo / Educação Financeira: ler o número do anúncio (\"até 24 horas\" = 6 h nos fones + 18 h no estojo) e fazer a conta no próprio uso",
   "programa": "amazon",
-  "ia": false
+  "ia": false,
+  "publicado_em": "2026-11-04T16:29-03:00",
+  "media_id": "18058490135655030",
+  "permalink": "https://www.instagram.com/p/DfVNZa0m4ju/",
+  "obs": "publicado em 04/11/2026 16:29 pela Action painel-dados (a partir do registro pub: do Worker) (API oficial); Story id 17874162234642180; QUERO ativo. Status gravado pela própria Action (fechar_status.py)."
  }
 }
