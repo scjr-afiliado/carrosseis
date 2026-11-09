@@ -1,0 +1,101 @@
+{
+ "codigo": "C018",
+ "reel": "R004",
+ "titulo": "Te ouvem na chamada?",
+ "pasta": "reels/R004-C018-microfone-na-chamada",
+ "carrossel_pasta": "operacao/carrossel/C018-2026-11-09-microfone-na-chamada",
+ "slides": [
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C018/01.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C018/02.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C018/03.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C018/04.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C018/05.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C018/06.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C018/07.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C018/08.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C018/09.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C018/10.jpg"
+ ],
+ "falas": [
+  {
+   "id": "01_0",
+   "slide": 1,
+   "texto": "Te ouvem na chamada?",
+   "fala": "Te ouvem na chamada?"
+  },
+  {
+   "id": "01_1",
+   "slide": 1,
+   "texto": "Muitas vezes, é a distância.",
+   "fala": "Muitas vezes, é a distância."
+  },
+  {
+   "id": "02_0",
+   "slide": 2,
+   "texto": "Cada vez que a distância dobra, a voz cai 6 decibéis.",
+   "fala": "Cada vez que a distância dobra, a voz cai seis decibéis."
+  },
+  {
+   "id": "03_0",
+   "slide": 3,
+   "texto": "10 vezes mais longe: 20 a menos.",
+   "fala": "Dez vezes mais longe: vinte a menos."
+  },
+  {
+   "id": "03_1",
+   "slide": 3,
+   "texto": "O barulho da sala, não.",
+   "fala": "O barulho da sala, não."
+  },
+  {
+   "id": "04_0",
+   "slide": 4,
+   "texto": "A RØDE indica de 20 a 30 centímetros da boca.",
+   "fala": "A Rôde indica de vinte a trinta centímetros da boca.",
+   "pronuncia": "RØDE se pronuncia Rôde"
+  },
+  {
+   "id": "05_0",
+   "slide": 5,
+   "texto": "O Google Meet recomenda fone com microfone,",
+   "fala": "O Google Meet recomenda fone com microfone,"
+  },
+  {
+   "id": "05_1",
+   "slide": 5,
+   "texto": "volume baixo,",
+   "fala": "volume baixo,"
+  },
+  {
+   "id": "05_2",
+   "slide": 5,
+   "texto": "e mudo quando não fala.",
+   "fala": "e mudo quando não fala."
+  },
+  {
+   "id": "06_0",
+   "slide": 6,
+   "texto": "O microfone do aparelho fica parado.",
+   "fala": "O microfone do aparelho fica parado."
+  },
+  {
+   "id": "06_1",
+   "slide": 6,
+   "texto": "O do fone vai com você.",
+   "fala": "O do fone vai com você."
+  },
+  {
+   "id": "09_0",
+   "slide": 9,
+   "texto": "Segundo a JBL, o Quantum 100M2 tem microfone removível e direcional.",
+   "fala": "Segundo a JBL, o Quantum cem M2 tem microfone removível e direcional.",
+   "pronuncia": "100M2 se lê cem M2"
+  },
+  {
+   "id": "10_0",
+   "slide": 10,
+   "texto": "Link de afiliado na bio. Comenta QUERO!",
+   "fala": "Link de afiliado na bio. Comenta QUERO!"
+  }
+ ]
+}
