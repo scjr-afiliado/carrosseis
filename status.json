@@ -208,9 +208,9 @@
   "obs": "publicado em 04/11/2026 16:29 pela Action painel-dados (a partir do registro pub: do Worker) (API oficial); Story id 17874162234642180; QUERO ativo. Status gravado pela própria Action (fechar_status.py)."
  },
  "C018": {
-  "status": "agendado",
-  "publicado_em": null,
-  "media_id": null,
+  "status": "publicado",
+  "publicado_em": "2026-11-09T17:03:53-03:00",
+  "media_id": "18221183164347973",
   "story": "Já te disseram “não estou te ouvindo” numa chamada?",
   "tipo": "reel",
   "produto": "JBL Quantum 100M2",
@@ -226,6 +226,9 @@
    "facebook": 421952979,
    "youtube": 421953043
   },
-  "obs": "Publicado como Reel (só Reel desde 09/11/2026); carrossel não vai ao ar. publica de Sergio por card em 09/11."
+  "obs": "Publicado como Reel (só Reel desde 09/11/2026); carrossel não vai ao ar. publica de Sergio por card em 09/11.",
+  "permalink": "https://www.instagram.com/reel/DfiJTPqiOW3/",
+  "facebook": "https://facebook.com/reel/2712220509231798",
+  "youtube": "https://www.youtube.com/shorts/hlJ-BnjhyL4"
  }
 }
