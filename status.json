@@ -241,7 +241,8 @@
   "programa": "amazon",
   "ia": true,
   "rota": "plataforma",
-  "obs": "Preparado em 09/11/2026 para o Reel de 10/11; aguardando a voz de Sergio no painel e o 'publica'. Avatar segura o Echo Dot na batida do slide 8. Sem ficha técnica oficial (nenhuma especificação usada). QUERO depende de Sergio pôr o produto na vitrine."
+  "obs": "Preparado em 09/11/2026 para o Reel de 10/11; aguardando a voz de Sergio no painel e o 'publica'. Avatar segura o Echo Dot na batida do slide 8. Sem ficha técnica oficial (nenhuma especificação usada). QUERO depende de Sergio pôr o produto na vitrine.",
+  "produto_vitrine": "Echo Dot (geração mais recente), Cor Preta"
  },
  "C020": {
   "status": "aguardando_voz",
@@ -253,7 +254,8 @@
   "produto": "Echo Show 5 (3ª geração, preto)",
   "produto_id": "P018",
   "tema": "Ciência e Tecnologia / Cidadania digital: o que a tela muda numa Alexa (uso real de Sergio) e o Drop In só com contato aprovado (Amazon, ajuda do Echo Show 8 e 11)",
-  "obs": "Preparado em 09/11/2026 para o Reel de 11/11; aguardando a voz de Sergio e o 'publica'. Sem ficha técnica oficial do Show 5 (nenhuma especificação usada). QUERO depende do produto na vitrine."
+  "obs": "Preparado em 09/11/2026 para o Reel de 11/11; aguardando a voz de Sergio e o 'publica'. Sem ficha técnica oficial do Show 5 (nenhuma especificação usada). QUERO depende do produto na vitrine.",
+  "produto_vitrine": "Echo Show 5 (geração mais recente), tela com Alexa"
  },
  "C021": {
   "status": "aguardando_voz",
