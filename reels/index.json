@@ -1,5 +1,26 @@
 [
  {
+  "codigo": "C022",
+  "reel": "R008",
+  "titulo": "Derramou líquido no notebook? Faça isto agora",
+  "pasta": "reels/R008-C022-liquido-no-notebook",
+  "data": "2026-11-13"
+ },
+ {
+  "codigo": "C021",
+  "reel": "R007",
+  "titulo": "Fone com “até 24 horas”: 24 horas de quê?",
+  "pasta": "reels/R007-C021-fone-ate-24-horas",
+  "data": "2026-11-12"
+ },
+ {
+  "codigo": "C020",
+  "reel": "R006",
+  "titulo": "A voz pede. A tela mostra.",
+  "pasta": "reels/R006-C020-tela-da-alexa",
+  "data": "2026-11-11"
+ },
+ {
   "codigo": "C019",
   "reel": "R005",
   "titulo": "O que acontece entre falar e a luz acender",

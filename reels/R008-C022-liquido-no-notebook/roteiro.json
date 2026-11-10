@@ -1,0 +1,100 @@
+{
+ "codigo": "C022",
+ "reel": "R008",
+ "titulo": "Derramou líquido no notebook? Faça isto agora",
+ "pasta": "reels/R008-C022-liquido-no-notebook",
+ "carrossel_pasta": "operacao/carrossel/C022-2026-11-13-liquido-no-notebook-reel",
+ "slides": [
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C022/01.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C022/02.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C022/03.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C022/04.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C022/05.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C022/06.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C022/07.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C022/08.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C022/09.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C022/10.jpg"
+ ],
+ "falas": [
+  {
+   "id": "01_0",
+   "slide": 1,
+   "texto": "Derramou líquido no notebook?",
+   "fala": "Derramou líquido no notebook?"
+  },
+  {
+   "id": "01_1",
+   "slide": 1,
+   "texto": "Faça isto agora.",
+   "fala": "Faça isto agora."
+  },
+  {
+   "id": "03_0",
+   "slide": 3,
+   "texto": "Desligue e tire da tomada.",
+   "fala": "Desligue e tire da tomada."
+  },
+  {
+   "id": "03_1",
+   "slide": 3,
+   "texto": "Segundo a Lenovo, desligue na hora o computador e o carregador.",
+   "fala": "Segundo a Lenovo, desligue na hora o computador e o carregador."
+  },
+  {
+   "id": "04_0",
+   "slide": 4,
+   "texto": "Espere secar por inteiro.",
+   "fala": "Espere secar por inteiro."
+  },
+  {
+   "id": "04_1",
+   "slide": 4,
+   "texto": "Só ligue de novo quando tiver certeza de que secou.",
+   "fala": "Só ligue de novo quando tiver certeza de que secou."
+  },
+  {
+   "id": "05_0",
+   "slide": 5,
+   "texto": "O que não usar:",
+   "fala": "O que não usar:"
+  },
+  {
+   "id": "05_1",
+   "slide": 5,
+   "texto": "a Apple, sobre o MacBook, diz: sem calor externo, ar comprimido nem saco de arroz.",
+   "fala": "a Apple, sobre o MacBook, diz: sem calor externo, ar comprimido nem saco de arroz."
+  },
+  {
+   "id": "06_0",
+   "slide": 6,
+   "texto": "Voltou a ligar? Observe.",
+   "fala": "Voltou a ligar? Observe."
+  },
+  {
+   "id": "06_1",
+   "slide": 6,
+   "texto": "Falhou? Assistência do fabricante.",
+   "fala": "Falhou? Assistência do fabricante."
+  },
+  {
+   "id": "09_0",
+   "slide": 9,
+   "texto": "Para o café ao lado: Logitech MK250.",
+   "fala": "Para o café ao lado: Logitech MK250."
+  },
+  {
+   "id": "09_1",
+   "slide": 9,
+   "texto": "Segundo a Logitech, resiste a respingos, testado com até 60 ml.",
+   "fala": "Segundo a Logitech, resiste a respingos, testado com até sessenta mililitros.",
+   "pronuncia": "60 ml se lê sessenta mililitros"
+  },
+  {
+   "id": "10_0",
+   "slide": 10,
+   "texto": "Link de afiliado na bio. Comenta QUERO!",
+   "fala": "Link de afiliado na bio. Comenta QUERO!"
+  }
+ ]
+}

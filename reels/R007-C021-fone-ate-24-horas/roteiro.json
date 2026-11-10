@@ -1,0 +1,100 @@
+{
+ "codigo": "C021",
+ "reel": "R007",
+ "titulo": "Fone com “até 24 horas”: 24 horas de quê?",
+ "pasta": "reels/R007-C021-fone-ate-24-horas",
+ "carrossel_pasta": "operacao/carrossel/C021-2026-11-12-fone-ate-24-horas-reel",
+ "slides": [
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C021/01.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C021/02.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C021/03.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C021/04.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C021/05.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C021/06.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C021/07.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C021/08.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C021/09.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C021/10.jpg"
+ ],
+ "falas": [
+  {
+   "id": "01_0",
+   "slide": 1,
+   "texto": "Até 24 horas de bateria.",
+   "fala": "Até 24 horas de bateria."
+  },
+  {
+   "id": "01_1",
+   "slide": 1,
+   "texto": "De quê?",
+   "fala": "De quê?"
+  },
+  {
+   "id": "02_0",
+   "slide": 2,
+   "texto": "Segundo a Philips, são até 6 horas nos fones.",
+   "fala": "Segundo a Philips, são até seis horas nos fones."
+  },
+  {
+   "id": "02_1",
+   "slide": 2,
+   "texto": "O resto está no estojo.",
+   "fala": "O resto está no estojo."
+  },
+  {
+   "id": "03_0",
+   "slide": 3,
+   "texto": "“Até” quer dizer máximo.",
+   "fala": "“Até” quer dizer máximo."
+  },
+  {
+   "id": "04_0",
+   "slide": 4,
+   "texto": "Ouvindo 2 horas por dia, são 12 dias, no máximo.",
+   "fala": "Ouvindo duas horas por dia, são doze dias, no máximo."
+  },
+  {
+   "id": "06_0",
+   "slide": 6,
+   "texto": "O Código de Defesa do Consumidor, art. 31, exige informação clara.",
+   "fala": "O Código de Defesa do Consumidor, artigo trinta e um, exige informação clara."
+  },
+  {
+   "id": "07_0",
+   "slide": 7,
+   "texto": "Pergunte: é por carga ou com o estojo?",
+   "fala": "Pergunte: é por carga ou com o estojo?"
+  },
+  {
+   "id": "07_1",
+   "slide": 7,
+   "texto": "Tem “até”? Então é o teto.",
+   "fala": "Tem “até”? Então é o teto."
+  },
+  {
+   "id": "07_2",
+   "slide": 7,
+   "texto": "E quantas horas você usa por dia?",
+   "fala": "E quantas horas você usa por dia?"
+  },
+  {
+   "id": "09_0",
+   "slide": 9,
+   "texto": "Se precisar de um fone, o Philips TAT1109.",
+   "fala": "Se precisar de um fone, o Philips TAT mil cento e nove.",
+   "pronuncia": "TAT1109 se lê TAT mil cento e nove"
+  },
+  {
+   "id": "09_1",
+   "slide": 9,
+   "texto": "Na ficha da Philips: até 6 horas por carga e até 24 com o estojo.",
+   "fala": "Na ficha da Philips: até seis horas por carga e até vinte e quatro com o estojo."
+  },
+  {
+   "id": "10_0",
+   "slide": 10,
+   "texto": "Link de afiliado na bio. Comenta QUERO!",
+   "fala": "Link de afiliado na bio. Comenta QUERO!"
+  }
+ ]
+}

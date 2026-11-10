@@ -242,5 +242,41 @@
   "ia": true,
   "rota": "plataforma",
   "obs": "Preparado em 09/11/2026 para o Reel de 10/11; aguardando a voz de Sergio no painel e o 'publica'. Avatar segura o Echo Dot na batida do slide 8. Sem ficha técnica oficial (nenhuma especificação usada). QUERO depende de Sergio pôr o produto na vitrine."
+ },
+ "C020": {
+  "status": "aguardando_voz",
+  "tipo": "reel",
+  "programa": "amazon",
+  "ia": true,
+  "rota": "plataforma",
+  "story": "Quem está aprovado no Drop In da sua casa?",
+  "produto": "Echo Show 5 (3ª geração, preto)",
+  "produto_id": "P018",
+  "tema": "Ciência e Tecnologia / Cidadania digital: o que a tela muda numa Alexa (uso real de Sergio) e o Drop In só com contato aprovado (Amazon, ajuda do Echo Show 8 e 11)",
+  "obs": "Preparado em 09/11/2026 para o Reel de 11/11; aguardando a voz de Sergio e o 'publica'. Sem ficha técnica oficial do Show 5 (nenhuma especificação usada). QUERO depende do produto na vitrine."
+ },
+ "C021": {
+  "status": "aguardando_voz",
+  "tipo": "reel",
+  "programa": "amazon",
+  "ia": true,
+  "rota": "plataforma",
+  "story": "Você já escolheu um fone pelas horas do anúncio?",
+  "produto": "Philips TAT1109 (branco)",
+  "produto_id": "P009",
+  "tema": "Reel do carrossel C017 (maior alcance no Instagram): ler o número do anúncio, 'até 24 horas'",
+  "obs": "Preparado em 09/11/2026 para 12/11. Código novo porque C017 consta como publicado (carrossel)."
+ },
+ "C022": {
+  "status": "aguardando_voz",
+  "tipo": "reel",
+  "programa": "amazon",
+  "ia": true,
+  "rota": "plataforma",
+  "story": "Você já derramou líquido no teclado?",
+  "produto": "Logitech MK250",
+  "produto_id": "P014",
+  "tema": "Reel do carrossel C016 (2º maior alcance no Instagram): derramou líquido no notebook (Lenovo, Apple)",
+  "obs": "Preparado em 09/11/2026 para 13/11. Código novo porque C016 consta como publicado (carrossel)."
  }
 }

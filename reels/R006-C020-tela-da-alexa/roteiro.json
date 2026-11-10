@@ -1,0 +1,110 @@
+{
+ "codigo": "C020",
+ "reel": "R006",
+ "titulo": "A voz pede. A tela mostra.",
+ "pasta": "reels/R006-C020-tela-da-alexa",
+ "carrossel_pasta": "operacao/carrossel/C020-2026-11-11-tela-da-alexa",
+ "slides": [
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C020/01.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C020/02.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C020/03.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C020/04.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C020/05.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C020/06.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C020/07.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C020/08.jpg"
+ ],
+ "falas": [
+  {
+   "id": "01_0",
+   "slide": 1,
+   "texto": "A voz pede.",
+   "fala": "A voz pede."
+  },
+  {
+   "id": "01_1",
+   "slide": 1,
+   "texto": "A tela mostra.",
+   "fala": "A tela mostra."
+  },
+  {
+   "id": "01_2",
+   "slide": 1,
+   "texto": "O que muda quando a Alexa tem tela?",
+   "fala": "O que muda quando a Alexa tem tela?"
+  },
+  {
+   "id": "02_0",
+   "slide": 2,
+   "texto": "No meu Echo Show: filme e YouTube enquanto eu trabalho,",
+   "fala": "No meu Echo Show: filme e YouTube enquanto eu trabalho,"
+  },
+  {
+   "id": "02_1",
+   "slide": 2,
+   "texto": "painel da casa inteligente,",
+   "fala": "painel da casa inteligente,"
+  },
+  {
+   "id": "02_2",
+   "slide": 2,
+   "texto": "videochamada",
+   "fala": "videochamada"
+  },
+  {
+   "id": "02_3",
+   "slide": 2,
+   "texto": "e música.",
+   "fala": "e música."
+  },
+  {
+   "id": "03_0",
+   "slide": 3,
+   "texto": "Segundo a Amazon, com a câmera ativa o Drop In liga a chamada sem a outra pessoa atender.",
+   "fala": "Segundo a Amazon, com a câmera ativa o Drop In liga a chamada sem a outra pessoa atender."
+  },
+  {
+   "id": "04_0",
+   "slide": 4,
+   "texto": "Fora da sua casa, só com contato aprovado por você.",
+   "fala": "Fora da sua casa, só com contato aprovado por você."
+  },
+  {
+   "id": "05_0",
+   "slide": 5,
+   "texto": "Revise quem está aprovado.",
+   "fala": "Revise quem está aprovado."
+  },
+  {
+   "id": "05_1",
+   "slide": 5,
+   "texto": "Veja para onde a câmera aponta.",
+   "fala": "Veja para onde a câmera aponta."
+  },
+  {
+   "id": "05_2",
+   "slide": 5,
+   "texto": "E saiba desligar a câmera.",
+   "fala": "E saiba desligar a câmera."
+  },
+  {
+   "id": "07_0",
+   "slide": 7,
+   "texto": "Para ter tela, um Echo Show 5.",
+   "fala": "Para ter tela, um Echo Show cinco.",
+   "pronuncia": "Show 5 se lê Show cinco"
+  },
+  {
+   "id": "07_1",
+   "slide": 7,
+   "texto": "O meu é de outra geração; este é o da foto.",
+   "fala": "O meu é de outra geração; este é o da foto."
+  },
+  {
+   "id": "08_0",
+   "slide": 8,
+   "texto": "Link de afiliado na bio. Comenta QUERO!",
+   "fala": "Link de afiliado na bio. Comenta QUERO!"
+  }
+ ]
+}
