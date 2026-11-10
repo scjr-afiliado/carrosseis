@@ -97,8 +97,8 @@
   {
    "id": "07_1",
    "slide": 7,
-   "texto": "O meu é de outra geração; este é o da foto.",
-   "fala": "O meu é de outra geração; este é o da foto."
+   "texto": "Uma central multimídia na sua mesa.",
+   "fala": "Uma central multimídia na sua mesa."
   },
   {
    "id": "08_0",
@@ -106,5 +106,12 @@
    "texto": "Link de afiliado na bio. Comenta QUERO!",
    "fala": "Link de afiliado na bio. Comenta QUERO!"
   }
- ]
+ ],
+ "revisao": {
+  "07_1": {
+   "refeito_em": "2026-11-10T13:05:12Z",
+   "anterior": "O meu é de outra geração; este é o da foto.",
+   "motivo": "Sergio reprovou o anticlímax do slide 7 e gravou a frase nova"
+  }
+ }
 }
