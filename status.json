@@ -230,5 +230,17 @@
   "permalink": "https://www.instagram.com/reel/DfiJTPqiOW3/",
   "facebook": "https://facebook.com/reel/2712220509231798",
   "youtube": "https://www.youtube.com/shorts/hlJ-BnjhyL4"
+ },
+ "C019": {
+  "status": "aguardando_voz",
+  "story": "Qual frase você repete todo dia para a Alexa?",
+  "tipo": "reel",
+  "produto": "Echo Dot (5ª geração, preto)",
+  "produto_id": "P019",
+  "tema": "Ciência e Tecnologia: o que acontece entre falar e a luz acender (palavra de ativação, nuvem, rotina); frases reais de uso de Sergio",
+  "programa": "amazon",
+  "ia": true,
+  "rota": "plataforma",
+  "obs": "Preparado em 09/11/2026 para o Reel de 10/11; aguardando a voz de Sergio no painel e o 'publica'. Avatar segura o Echo Dot na batida do slide 8. Sem ficha técnica oficial (nenhuma especificação usada). QUERO depende de Sergio pôr o produto na vitrine."
  }
 }

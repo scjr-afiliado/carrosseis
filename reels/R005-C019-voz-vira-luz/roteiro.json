@@ -1,0 +1,128 @@
+{
+ "codigo": "C019",
+ "reel": "R005",
+ "titulo": "O que acontece entre falar e a luz acender",
+ "pasta": "reels/R005-C019-voz-vira-luz",
+ "carrossel_pasta": "operacao/carrossel/C019-2026-11-10-voz-vira-luz",
+ "slides": [
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C019/01.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C019/02.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C019/03.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C019/04.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C019/05.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C019/06.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C019/07.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C019/08.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C019/09.jpg"
+ ],
+ "falas": [
+  {
+   "id": "01_0",
+   "slide": 1,
+   "texto": "Você fala.",
+   "fala": "Você fala."
+  },
+  {
+   "id": "01_1",
+   "slide": 1,
+   "texto": "A luz acende.",
+   "fala": "A luz acende."
+  },
+  {
+   "id": "01_2",
+   "slide": 1,
+   "texto": "O que acontece no meio?",
+   "fala": "O que acontece no meio?"
+  },
+  {
+   "id": "02_0",
+   "slide": 2,
+   "texto": "Segundo a Amazon, o Echo só grava depois de ouvir a palavra de ativação.",
+   "fala": "Segundo a Amazon, o Echo só grava depois de ouvir a palavra de ativação."
+  },
+  {
+   "id": "02_1",
+   "slide": 2,
+   "texto": "A luz azul mostra que ele está ouvindo.",
+   "fala": "A luz azul mostra que ele está ouvindo."
+  },
+  {
+   "id": "03_0",
+   "slide": 3,
+   "texto": "O pedido vai para a nuvem da Amazon e volta como ação:",
+   "fala": "O pedido vai para a nuvem da Amazon e volta como ação:"
+  },
+  {
+   "id": "03_1",
+   "slide": 3,
+   "texto": "a luz acende.",
+   "fala": "a luz acende."
+  },
+  {
+   "id": "04_0",
+   "slide": 4,
+   "texto": "Aqui em casa eu uso todo dia: ventilador, luz da sala, luz do aquário,",
+   "fala": "Aqui em casa eu uso todo dia: ventilador, luz da sala, luz do aquário,"
+  },
+  {
+   "id": "04_1",
+   "slide": 4,
+   "texto": "ar do quarto e Fire Stick.",
+   "fala": "ar do quarto e Fire Stick."
+  },
+  {
+   "id": "04_2",
+   "slide": 4,
+   "texto": "Contagem regressiva para cozinhar,",
+   "fala": "Contagem regressiva para cozinhar,"
+  },
+  {
+   "id": "04_3",
+   "slide": 4,
+   "texto": "lista de compras e a minha playlist no Apple Music.",
+   "fala": "lista de compras e a minha playlist no Apple Music."
+  },
+  {
+   "id": "05_0",
+   "slide": 5,
+   "texto": "Quando uma frase faz várias coisas, a Alexa chama de rotina.",
+   "fala": "Quando uma frase faz várias coisas, a Alexa chama de rotina."
+  },
+  {
+   "id": "05_1",
+   "slide": 5,
+   "texto": "Ela pode partir da voz,",
+   "fala": "Ela pode partir da voz,"
+  },
+  {
+   "id": "05_2",
+   "slide": 5,
+   "texto": "do horário",
+   "fala": "do horário"
+  },
+  {
+   "id": "05_3",
+   "slide": 5,
+   "texto": "ou do lugar.",
+   "fala": "ou do lugar."
+  },
+  {
+   "id": "08_0",
+   "slide": 8,
+   "texto": "Para começar, um Echo Dot.",
+   "fala": "Para começar, um Echo Dot."
+  },
+  {
+   "id": "08_1",
+   "slide": 8,
+   "texto": "Segundo a Amazon, todo Echo tem botão que desliga o microfone.",
+   "fala": "Segundo a Amazon, todo Echo tem botão que desliga o microfone."
+  },
+  {
+   "id": "09_0",
+   "slide": 9,
+   "texto": "Link de afiliado na bio. Comenta QUERO!",
+   "fala": "Link de afiliado na bio. Comenta QUERO!"
+  }
+ ]
+}

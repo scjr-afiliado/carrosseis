@@ -1,5 +1,12 @@
 [
  {
+  "codigo": "C019",
+  "reel": "R005",
+  "titulo": "O que acontece entre falar e a luz acender",
+  "pasta": "reels/R005-C019-voz-vira-luz",
+  "data": "2026-11-10"
+ },
+ {
   "codigo": "C018",
   "reel": "R004",
   "titulo": "Te ouvem na chamada?",
