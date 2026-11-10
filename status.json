@@ -232,7 +232,7 @@
   "youtube": "https://www.youtube.com/shorts/hlJ-BnjhyL4"
  },
  "C019": {
-  "status": "aguardando_voz",
+  "status": "publicado",
   "story": "Qual frase você repete todo dia para a Alexa?",
   "tipo": "reel",
   "produto": "Echo Dot (5ª geração, preto)",
@@ -241,8 +241,11 @@
   "programa": "amazon",
   "ia": true,
   "rota": "plataforma",
-  "obs": "Preparado em 09/11/2026 para o Reel de 10/11; aguardando a voz de Sergio no painel e o 'publica'. Avatar segura o Echo Dot na batida do slide 8. Sem ficha técnica oficial (nenhuma especificação usada). QUERO depende de Sergio pôr o produto na vitrine.",
-  "produto_vitrine": "Echo Dot (geração mais recente), Cor Preta"
+  "produto_vitrine": "Echo Dot (geração mais recente), Cor Preta",
+  "publicado_em": "2026-11-10T11:10-03:00",
+  "media_id": "18029267945914886",
+  "permalink": "https://www.instagram.com/reel/DfkFp2EDJMb/",
+  "obs": "publicado em 10/11/2026 11:10 pela Action painel-dados (a partir do registro pub: do Worker) (API oficial); QUERO ativo. Status gravado pela própria Action (fechar_status.py). Antes da publicação: Preparado em 09/11/2026 para o Reel de 10/11; aguardando a voz de Sergio no painel e o 'publica'. Avatar segura o Echo Dot na batida do slide 8. Sem ficha técnica oficial (nenhuma especificação usada). QUERO depende de Sergio pôr o produto na vitrine."
  },
  "C020": {
   "status": "aguardando_voz",
