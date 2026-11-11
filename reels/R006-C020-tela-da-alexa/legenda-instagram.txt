@@ -1,9 +1,9 @@
 #publi A voz pede. A tela mostra: Echo Show 5 (3ª geração), com Alexa.
 Filme, YouTube, música, casa inteligente e videochamada numa tela só, na sua mesa. No meu Echo Show eu deixo um filme passando enquanto trabalho, uso como painel da casa e falo com a família por vídeo.
 
-Tela com câmera pede uma aula rápida de privacidade. Segundo a Amazon, com a câmera ativa o Drop In inicia a chamada sem a outra pessoa atender, e fora da sua casa só funciona com contatos que você aprovou.
+Tela com câmera pede uma aula rápida de privacidade. Segundo a Amazon, o Drop In liga a conexão de áudio ou vídeo automaticamente, e só funciona com quem recebeu a permissão de Drop In.
 3 hábitos que valem para qualquer aparelho com câmera:
-1. Revise quem está aprovado.
+1. Revise quem tem permissão de Drop In.
 2. Veja para onde a câmera aponta.
 3. Saiba desligar a câmera.
 
