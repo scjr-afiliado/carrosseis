@@ -248,7 +248,7 @@
   "obs": "publicado em 10/11/2026 11:10 pela Action painel-dados (a partir do registro pub: do Worker) (API oficial); QUERO ativo. Status gravado pela própria Action (fechar_status.py). Antes da publicação: Preparado em 09/11/2026 para o Reel de 10/11; aguardando a voz de Sergio no painel e o 'publica'. Avatar segura o Echo Dot na batida do slide 8. Sem ficha técnica oficial (nenhuma especificação usada). QUERO depende de Sergio pôr o produto na vitrine."
  },
  "C020": {
-  "status": "aguardando_voz",
+  "status": "publicado",
   "tipo": "reel",
   "programa": "amazon",
   "ia": true,
@@ -257,8 +257,11 @@
   "produto": "Echo Show 5 (3ª geração, preto)",
   "produto_id": "P018",
   "tema": "Ciência e Tecnologia / Cidadania digital: o que a tela muda numa Alexa (uso real de Sergio) e o Drop In só com contato aprovado (Amazon, ajuda do Echo Show 8 e 11)",
-  "obs": "Preparado em 09/11/2026 para o Reel de 11/11; aguardando a voz de Sergio e o 'publica'. Sem ficha técnica oficial do Show 5 (nenhuma especificação usada). QUERO depende do produto na vitrine.",
-  "produto_vitrine": "Echo Show 5 (geração mais recente), tela com Alexa"
+  "produto_vitrine": "Echo Show 5 (geração mais recente), tela com Alexa",
+  "publicado_em": "2026-11-11T10:55-03:00",
+  "media_id": "18098364767654910",
+  "permalink": "https://www.instagram.com/reel/Dfmov0xFlCB/",
+  "obs": "publicado em 11/11/2026 10:55 pela Action painel-dados (a partir do registro pub: do Worker) (API oficial); QUERO ativo. Status gravado pela própria Action (fechar_status.py). Antes da publicação: Preparado em 09/11/2026 para o Reel de 11/11; aguardando a voz de Sergio e o 'publica'. Sem ficha técnica oficial do Show 5 (nenhuma especificação usada). QUERO depende do produto na vitrine."
  },
  "C021": {
   "status": "aguardando_voz",
