@@ -264,7 +264,7 @@
   "obs": "publicado em 11/11/2026 10:55 pela Action painel-dados (a partir do registro pub: do Worker) (API oficial); QUERO ativo. Status gravado pela própria Action (fechar_status.py). Antes da publicação: Preparado em 09/11/2026 para o Reel de 11/11; aguardando a voz de Sergio e o 'publica'. Sem ficha técnica oficial do Show 5 (nenhuma especificação usada). QUERO depende do produto na vitrine."
  },
  "C021": {
-  "status": "aguardando_voz",
+  "status": "publicado",
   "tipo": "reel",
   "programa": "amazon",
   "ia": true,
@@ -273,7 +273,10 @@
   "produto": "Philips TAT1109 (branco)",
   "produto_id": "P009",
   "tema": "Reel do carrossel C017 (maior alcance no Instagram): ler o número do anúncio, 'até 24 horas'",
-  "obs": "Preparado em 09/11/2026 para 12/11. Código novo porque C017 consta como publicado (carrossel)."
+  "publicado_em": "2026-11-12T12:02-03:00",
+  "media_id": "18147857812588594",
+  "permalink": "https://www.instagram.com/reel/DfpVMXkGV6l/",
+  "obs": "publicado em 12/11/2026 12:02 pela Action painel-dados (a partir do registro pub: do Worker) (API oficial); QUERO ativo. Status gravado pela própria Action (fechar_status.py). Antes da publicação: Preparado em 09/11/2026 para 12/11. Código novo porque C017 consta como publicado (carrossel)."
  },
  "C022": {
   "status": "aguardando_voz",
