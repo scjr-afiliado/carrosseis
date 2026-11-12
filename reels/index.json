@@ -1,5 +1,33 @@
 [
  {
+  "codigo": "C026",
+  "reel": "R012",
+  "titulo": "Seu café da manhã mais gostoso (Nespresso Essenza)",
+  "pasta": "reels/R012-C026-nespresso-essenza",
+  "data": "2026-11-17"
+ },
+ {
+  "codigo": "C025",
+  "reel": "R011",
+  "titulo": "Lanche quentinho em casa (Arno Grill)",
+  "pasta": "reels/R011-C025-arno-grill",
+  "data": "2026-11-16"
+ },
+ {
+  "codigo": "C024",
+  "reel": "R010",
+  "titulo": "Cozinha mais leve no dia a dia (Philco)",
+  "pasta": "reels/R010-C024-philco-multiprocessador",
+  "data": "2026-11-15"
+ },
+ {
+  "codigo": "C023",
+  "reel": "R009",
+  "titulo": "Fritura sem a bagunça (Philips Walita)",
+  "pasta": "reels/R009-C023-walita-airfryer",
+  "data": "2026-11-14"
+ },
+ {
   "codigo": "C022",
   "reel": "R008",
   "titulo": "Derramou líquido no notebook? Faça isto agora",

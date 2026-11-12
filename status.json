@@ -289,5 +289,53 @@
   "produto_id": "P014",
   "tema": "Reel do carrossel C016 (2º maior alcance no Instagram): derramou líquido no notebook (Lenovo, Apple)",
   "obs": "Preparado em 09/11/2026 para 13/11. Código novo porque C016 consta como publicado (carrossel)."
+ },
+ "C023": {
+  "status": "aguardando_voz",
+  "tipo": "reel",
+  "programa": "amazon",
+  "ia": true,
+  "rota": "plataforma",
+  "story": "Você desistiu de fazer frango pra não sujar a cozinha?",
+  "produto": "Philips Walita Fritadeira Airfryer Série 2000 (P075)",
+  "produto_id": "P075",
+  "tema": "Reel de produto com vídeo pronto (takes de IA) e voz de Sergio; roteiro de 12/11/2026",
+  "obs": "Preparado em 12/11/2026. Modo vídeo pronto (video_base). Sem especificação nas falas (ainda sem ficha oficial)."
+ },
+ "C024": {
+  "status": "aguardando_voz",
+  "tipo": "reel",
+  "programa": "amazon",
+  "ia": true,
+  "rota": "plataforma",
+  "story": "Cansou de picar tudo na mão?",
+  "produto": "Multiprocessador Philco PMP1600P (P069)",
+  "produto_id": "P069",
+  "tema": "Reel de produto com vídeo pronto (takes de IA) e voz de Sergio; roteiro de 12/11/2026",
+  "obs": "Preparado em 12/11/2026. Modo vídeo pronto (video_base). Sem especificação nas falas (ainda sem ficha oficial)."
+ },
+ "C025": {
+  "status": "aguardando_voz",
+  "tipo": "reel",
+  "programa": "amazon",
+  "ia": true,
+  "rota": "plataforma",
+  "story": "Sabe aquele lanche quentinho que dá vontade só de olhar?",
+  "produto": "Grill Compacto Arno GPTO (P042)",
+  "produto_id": "P042",
+  "tema": "Reel de produto com vídeo pronto (takes de IA) e voz de Sergio; roteiro de 12/11/2026",
+  "obs": "Preparado em 12/11/2026. Modo vídeo pronto (video_base). Sem especificação nas falas (ainda sem ficha oficial)."
+ },
+ "C026": {
+  "status": "aguardando_voz",
+  "tipo": "reel",
+  "programa": "amazon",
+  "ia": true,
+  "rota": "plataforma",
+  "story": "Café de manhã sem fazer bagunça?",
+  "produto": "Nespresso Essenza Mini Vermelha (P043)",
+  "produto_id": "P043",
+  "tema": "Reel de produto com vídeo pronto (takes de IA) e voz de Sergio; roteiro de 12/11/2026",
+  "obs": "Preparado em 12/11/2026. Modo vídeo pronto (video_base). Sem especificação nas falas (ainda sem ficha oficial)."
  }
 }

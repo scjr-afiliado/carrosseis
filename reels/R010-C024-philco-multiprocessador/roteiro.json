@@ -1,0 +1,73 @@
+{
+ "codigo": "C024",
+ "reel": "R010",
+ "titulo": "Cozinha mais leve no dia a dia (Philco)",
+ "pasta": "reels/R010-C024-philco-multiprocessador",
+ "video_base": "base.mp4",
+ "takes": [
+  {
+   "id": "01_0",
+   "de": 0.0,
+   "ate": 5.0,
+   "texto": "Gente, olha o ajudante que toda cozinha merece."
+  },
+  {
+   "id": "02_0",
+   "de": 5.0,
+   "ate": 10.0,
+   "texto": "Encaixa a jarra, e já dá pra começar."
+  },
+  {
+   "id": "03_0",
+   "de": 10.0,
+   "ate": 15.0,
+   "texto": "Cenoura fatiada, sem faca e sem cansar o braço."
+  },
+  {
+   "id": "04_0",
+   "de": 15.0,
+   "ate": 20.0,
+   "texto": "E se der vontade, uma laranja vira suco na hora."
+  },
+  {
+   "id": "05_0",
+   "de": 20.0,
+   "ate": 25.0,
+   "texto": "Mais tempo pra você, menos na cozinha. Comenta QUERO que eu mando o link."
+  }
+ ],
+ "slides": [],
+ "falas": [
+  {
+   "id": "01_0",
+   "slide": 1,
+   "texto": "Gente, olha o ajudante que toda cozinha merece.",
+   "fala": "Gente, olha o ajudante que toda cozinha merece."
+  },
+  {
+   "id": "02_0",
+   "slide": 2,
+   "texto": "Encaixa a jarra, e já dá pra começar.",
+   "fala": "Encaixa a jarra, e já dá pra começar."
+  },
+  {
+   "id": "03_0",
+   "slide": 3,
+   "texto": "Cenoura fatiada, sem faca e sem cansar o braço.",
+   "fala": "Cenoura fatiada, sem faca e sem cansar o braço."
+  },
+  {
+   "id": "04_0",
+   "slide": 4,
+   "texto": "E se der vontade, uma laranja vira suco na hora.",
+   "fala": "E se der vontade, uma laranja vira suco na hora."
+  },
+  {
+   "id": "05_0",
+   "slide": 5,
+   "texto": "Mais tempo pra você, menos na cozinha. Comenta QUERO que eu mando o link.",
+   "fala": "Mais tempo pra você, menos na cozinha. Comenta QUERO que eu mando o link."
+  }
+ ],
+ "rotulo_ia": "avatar_cenas"
+}

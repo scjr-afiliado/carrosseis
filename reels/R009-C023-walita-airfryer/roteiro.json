@@ -1,0 +1,61 @@
+{
+ "codigo": "C023",
+ "reel": "R009",
+ "titulo": "Fritura sem a bagunça (Philips Walita)",
+ "pasta": "reels/R009-C023-walita-airfryer",
+ "video_base": "base.mp4",
+ "takes": [
+  {
+   "id": "01_0",
+   "de": 0.0,
+   "ate": 5.0,
+   "texto": "Cozinhar todo dia cansa, ainda mais quando é fritura."
+  },
+  {
+   "id": "02_0",
+   "de": 5.0,
+   "ate": 10.0,
+   "texto": "Eu escolho no painel, e ela faz o resto."
+  },
+  {
+   "id": "03_0",
+   "de": 10.0,
+   "ate": 15.0,
+   "texto": "Abriu a cesta, e olha só esse vapor."
+  },
+  {
+   "id": "04_0",
+   "de": 15.0,
+   "ate": 20.0,
+   "texto": "Frango pronto e a cozinha limpa. Comenta QUERO que eu te mando o link."
+  }
+ ],
+ "slides": [],
+ "falas": [
+  {
+   "id": "01_0",
+   "slide": 1,
+   "texto": "Cozinhar todo dia cansa, ainda mais quando é fritura.",
+   "fala": "Cozinhar todo dia cansa, ainda mais quando é fritura."
+  },
+  {
+   "id": "02_0",
+   "slide": 2,
+   "texto": "Eu escolho no painel, e ela faz o resto.",
+   "fala": "Eu escolho no painel, e ela faz o resto."
+  },
+  {
+   "id": "03_0",
+   "slide": 3,
+   "texto": "Abriu a cesta, e olha só esse vapor.",
+   "fala": "Abriu a cesta, e olha só esse vapor."
+  },
+  {
+   "id": "04_0",
+   "slide": 4,
+   "texto": "Frango pronto e a cozinha limpa. Comenta QUERO que eu te mando o link.",
+   "fala": "Frango pronto e a cozinha limpa. Comenta QUERO que eu te mando o link."
+  }
+ ],
+ "rotulo_ia": "avatar_cenas"
+}

@@ -1,0 +1,49 @@
+{
+ "codigo": "C026",
+ "reel": "R012",
+ "titulo": "Seu café da manhã mais gostoso (Nespresso Essenza)",
+ "pasta": "reels/R012-C026-nespresso-essenza",
+ "video_base": "base.mp4",
+ "takes": [
+  {
+   "id": "01_0",
+   "de": 0.0,
+   "ate": 8.0,
+   "texto": "Sabe aquele cafezinho de manhã, sem fazer bagunça nenhuma? É só apertar o botão, e ele já cai na xícara."
+  },
+  {
+   "id": "02_0",
+   "de": 8.0,
+   "ate": 16.0,
+   "texto": "Primeiro gole... e o dia já começa melhor."
+  },
+  {
+   "id": "03_0",
+   "de": 16.0,
+   "ate": 24.0,
+   "texto": "Se você também quer isso na sua cozinha, comenta QUERO que eu te mando o link."
+  }
+ ],
+ "slides": [],
+ "falas": [
+  {
+   "id": "01_0",
+   "slide": 1,
+   "texto": "Sabe aquele cafezinho de manhã, sem fazer bagunça nenhuma? É só apertar o botão, e ele já cai na xícara.",
+   "fala": "Sabe aquele cafezinho de manhã, sem fazer bagunça nenhuma? É só apertar o botão, e ele já cai na xícara."
+  },
+  {
+   "id": "02_0",
+   "slide": 2,
+   "texto": "Primeiro gole... e o dia já começa melhor.",
+   "fala": "Primeiro gole... e o dia já começa melhor."
+  },
+  {
+   "id": "03_0",
+   "slide": 3,
+   "texto": "Se você também quer isso na sua cozinha, comenta QUERO que eu te mando o link.",
+   "fala": "Se você também quer isso na sua cozinha, comenta QUERO que eu te mando o link."
+  }
+ ],
+ "rotulo_ia": "avatar_cenas"
+}

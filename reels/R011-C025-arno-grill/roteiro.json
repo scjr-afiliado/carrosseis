@@ -1,0 +1,61 @@
+{
+ "codigo": "C025",
+ "reel": "R011",
+ "titulo": "Lanche quentinho em casa (Arno Grill)",
+ "pasta": "reels/R011-C025-arno-grill",
+ "video_base": "base.mp4",
+ "takes": [
+  {
+   "id": "01_0",
+   "de": 0.0,
+   "ate": 5.0,
+   "texto": "Sabe aquele lanche quentinho que dá vontade só de olhar?"
+  },
+  {
+   "id": "02_0",
+   "de": 5.0,
+   "ate": 10.0,
+   "texto": "Pão, recheio, e pronto: é só fechar."
+  },
+  {
+   "id": "03_0",
+   "de": 10.0,
+   "ate": 15.0,
+   "texto": "Agora é esperar um pouquinho. O cheiro já chama."
+  },
+  {
+   "id": "04_0",
+   "de": 15.0,
+   "ate": 20.0,
+   "texto": "Olha esse dourado! Comenta QUERO que eu te mando o link."
+  }
+ ],
+ "slides": [],
+ "falas": [
+  {
+   "id": "01_0",
+   "slide": 1,
+   "texto": "Sabe aquele lanche quentinho que dá vontade só de olhar?",
+   "fala": "Sabe aquele lanche quentinho que dá vontade só de olhar?"
+  },
+  {
+   "id": "02_0",
+   "slide": 2,
+   "texto": "Pão, recheio, e pronto: é só fechar.",
+   "fala": "Pão, recheio, e pronto: é só fechar."
+  },
+  {
+   "id": "03_0",
+   "slide": 3,
+   "texto": "Agora é esperar um pouquinho. O cheiro já chama.",
+   "fala": "Agora é esperar um pouquinho. O cheiro já chama."
+  },
+  {
+   "id": "04_0",
+   "slide": 4,
+   "texto": "Olha esse dourado! Comenta QUERO que eu te mando o link.",
+   "fala": "Olha esse dourado! Comenta QUERO que eu te mando o link."
+  }
+ ],
+ "rotulo_ia": "avatar_cenas"
+}
