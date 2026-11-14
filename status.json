@@ -294,7 +294,7 @@
   "obs": "publicado em 13/11/2026 14:55 pela Action painel-dados (a partir do registro pub: do Worker) (API oficial); QUERO ativo. Status gravado pela própria Action (fechar_status.py). Antes da publicação: Preparado em 09/11/2026 para 13/11. Código novo porque C016 consta como publicado (carrossel)."
  },
  "C023": {
-  "status": "aguardando_voz",
+  "status": "publicado",
   "tipo": "reel",
   "programa": "amazon",
   "ia": true,
@@ -303,7 +303,10 @@
   "produto": "Philips Walita Fritadeira Airfryer Série 2000 (P075)",
   "produto_id": "P075",
   "tema": "Reel de produto com vídeo pronto (takes de IA) e voz de Sergio; roteiro de 12/11/2026",
-  "obs": "Preparado em 12/11/2026. Modo vídeo pronto (video_base). Sem especificação nas falas (ainda sem ficha oficial)."
+  "publicado_em": "2026-11-14T15:14-03:00",
+  "media_id": "18114761234231760",
+  "permalink": "https://www.instagram.com/reel/Dfu0vqwiVhd/",
+  "obs": "publicado em 14/11/2026 15:14 pela Action painel-dados (a partir do registro pub: do Worker) (API oficial); QUERO ativo. Status gravado pela própria Action (fechar_status.py). Antes da publicação: Preparado em 12/11/2026. Modo vídeo pronto (video_base). Sem especificação nas falas (ainda sem ficha oficial)."
  },
  "C024": {
   "status": "aguardando_voz",
