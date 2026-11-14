@@ -279,7 +279,7 @@
   "obs": "publicado em 12/11/2026 12:02 pela Action painel-dados (a partir do registro pub: do Worker) (API oficial); QUERO ativo. Status gravado pela própria Action (fechar_status.py). Antes da publicação: Preparado em 09/11/2026 para 12/11. Código novo porque C017 consta como publicado (carrossel)."
  },
  "C022": {
-  "status": "aguardando_voz",
+  "status": "publicado",
   "tipo": "reel",
   "programa": "amazon",
   "ia": true,
@@ -288,7 +288,10 @@
   "produto": "Logitech MK250",
   "produto_id": "P014",
   "tema": "Reel do carrossel C016 (2º maior alcance no Instagram): derramou líquido no notebook (Lenovo, Apple)",
-  "obs": "Preparado em 09/11/2026 para 13/11. Código novo porque C016 consta como publicado (carrossel)."
+  "publicado_em": "2026-11-13T14:55-03:00",
+  "media_id": "18129045436667861",
+  "permalink": "https://www.instagram.com/reel/DfsNza3IBXZ/",
+  "obs": "publicado em 13/11/2026 14:55 pela Action painel-dados (a partir do registro pub: do Worker) (API oficial); QUERO ativo. Status gravado pela própria Action (fechar_status.py). Antes da publicação: Preparado em 09/11/2026 para 13/11. Código novo porque C016 consta como publicado (carrossel)."
  },
  "C023": {
   "status": "aguardando_voz",
