@@ -324,7 +324,7 @@
   "obs": "publicado em 15/11/2026 13:23 pela Action painel-dados (a partir do registro pub: do Worker) (API oficial); QUERO ativo. Status gravado pela própria Action (fechar_status.py). Antes da publicação: Preparado em 12/11/2026. Modo vídeo pronto (video_base). Sem especificação nas falas (ainda sem ficha oficial)."
  },
  "C025": {
-  "status": "aguardando_voz",
+  "status": "publicado",
   "tipo": "reel",
   "programa": "amazon",
   "ia": true,
@@ -333,7 +333,10 @@
   "produto": "Grill Compacto Arno GPTO (P042)",
   "produto_id": "P042",
   "tema": "Reel de produto com vídeo pronto (takes de IA) e voz de Sergio; roteiro de 12/11/2026",
-  "obs": "Preparado em 12/11/2026. Modo vídeo pronto (video_base). Sem especificação nas falas (ainda sem ficha oficial)."
+  "publicado_em": "2026-11-16T12:31-03:00",
+  "media_id": "18046178033832509",
+  "permalink": "https://www.instagram.com/reel/DfzrqeuEdm8/",
+  "obs": "publicado em 16/11/2026 12:31 pela Action painel-dados (a partir do registro pub: do Worker) (API oficial); QUERO ativo. Status gravado pela própria Action (fechar_status.py). Antes da publicação: Preparado em 12/11/2026. Modo vídeo pronto (video_base). Sem especificação nas falas (ainda sem ficha oficial)."
  },
  "C026": {
   "status": "aguardando_voz",
