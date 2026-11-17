@@ -339,7 +339,7 @@
   "obs": "publicado em 16/11/2026 12:31 pela Action painel-dados (a partir do registro pub: do Worker) (API oficial); QUERO ativo. Status gravado pela própria Action (fechar_status.py). Antes da publicação: Preparado em 12/11/2026. Modo vídeo pronto (video_base). Sem especificação nas falas (ainda sem ficha oficial)."
  },
  "C026": {
-  "status": "aguardando_voz",
+  "status": "publicado",
   "tipo": "reel",
   "programa": "amazon",
   "ia": true,
@@ -348,6 +348,9 @@
   "produto": "Nespresso Essenza Mini Vermelha (P043)",
   "produto_id": "P043",
   "tema": "Reel de produto com vídeo pronto (takes de IA) e voz de Sergio; roteiro de 12/11/2026",
-  "obs": "Preparado em 12/11/2026. Modo vídeo pronto (video_base). Sem especificação nas falas (ainda sem ficha oficial)."
+  "publicado_em": "2026-11-17T13:53-03:00",
+  "media_id": "18161395267512507",
+  "permalink": "https://www.instagram.com/reel/Df2Z2oWjRb6/",
+  "obs": "publicado em 17/11/2026 13:53 pela Action painel-dados (a partir do registro pub: do Worker) (API oficial); QUERO ativo. Status gravado pela própria Action (fechar_status.py). Antes da publicação: Preparado em 12/11/2026. Modo vídeo pronto (video_base). Sem especificação nas falas (ainda sem ficha oficial)."
  }
 }
