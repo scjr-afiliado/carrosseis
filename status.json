@@ -354,13 +354,17 @@
   "obs": "publicado em 17/11/2026 13:53 pela Action painel-dados (a partir do registro pub: do Worker) (API oficial); QUERO ativo. Status gravado pela própria Action (fechar_status.py). Antes da publicação: Preparado em 12/11/2026. Modo vídeo pronto (video_base). Sem especificação nas falas (ainda sem ficha oficial)."
  },
  "C027": {
-  "status": "aguardando_voz",
+  "status": "publicado",
   "tipo": "reel",
   "programa": "shopee",
   "ia": true,
   "rota": "plataforma",
   "produto": "Air Fryer Britânia 4,2L Dura Mais 1500W BFR38",
   "produto_id": "P082",
-  "tema": "Reel de vídeo final (já narrado e legendado), preparado em 17/11/2026; só vale com o modo video_final do painel (PR 95 de curador-afiliados)"
+  "tema": "Reel de vídeo final (já narrado e legendado), preparado em 17/11/2026; só vale com o modo video_final do painel (PR 95 de curador-afiliados)",
+  "publicado_em": "2026-11-17T19:59-03:00",
+  "media_id": "18651866356032021",
+  "permalink": "https://www.instagram.com/reel/Df3DwHuDGbV/",
+  "obs": "publicado em 17/11/2026 19:59 pela Action painel-dados (a partir do registro pub: do Worker) (API oficial); QUERO ativo. Status gravado pela própria Action (fechar_status.py)."
  }
 }
