@@ -366,5 +366,14 @@
   "media_id": "18651866356032021",
   "permalink": "https://www.instagram.com/reel/Df3DwHuDGbV/",
   "obs": "publicado em 17/11/2026 19:59 pela Action painel-dados (a partir do registro pub: do Worker) (API oficial); QUERO ativo. Status gravado pela própria Action (fechar_status.py)."
+ },
+ "C028": {
+  "status": "aguardando_voz",
+  "tipo": "reel",
+  "programa": "amazon",
+  "ia": true,
+  "rota": "plataforma",
+  "produto": "Echo Show 5, tela com Alexa",
+  "tema": "Reel de vídeo pronto criado pelo painel (sem o Claude)"
  }
 }
