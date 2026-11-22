@@ -368,7 +368,7 @@
   "obs": "publicado em 17/11/2026 19:59 pela Action painel-dados (a partir do registro pub: do Worker) (API oficial); QUERO ativo. Status gravado pela própria Action (fechar_status.py)."
  },
  "C028": {
-  "status": "aguardando_voz",
+  "status": "publicado",
   "tipo": "reel",
   "programa": "amazon",
   "ia": true,
@@ -376,6 +376,10 @@
   "produto": "Echo Show 5, tela com Alexa",
   "tema": "Reel de vídeo pronto criado pelo painel (sem o Claude)",
   "link_vitrine": "https://link.amazon/B00sOTmKk",
-  "produto_vitrine": "Echo Show 5 (geração mais recente), tela com Alexa"
+  "produto_vitrine": "Echo Show 5 (geração mais recente), tela com Alexa",
+  "publicado_em": "2026-11-21T20:34-03:00",
+  "media_id": "18103891649658832",
+  "permalink": "https://www.instagram.com/reel/DgBa6OnEccc/",
+  "obs": "publicado em 21/11/2026 20:34 pela Action painel-dados (a partir do registro pub: do Worker) (API oficial); QUERO ativo. Status gravado pela própria Action (fechar_status.py)."
  }
 }
