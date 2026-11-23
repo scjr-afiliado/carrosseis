@@ -31,6 +31,7 @@
   "story": "pergunta (publicado, media id 18078264989727161)",
   "tipo": "produto",
   "produto": "Logitech M170",
+  "produto_id": "P002",
   "obs": "refeito em 15/10; publicado com 'publica' de Sergio nesta sessão"
  },
  "C005": {
@@ -40,6 +41,7 @@
   "story": "pergunta — publicado (Sergio confirmou às 18:35)",
   "tipo": "produto",
   "produto": "TP-Link TL-WA850RE",
+  "produto_id": "P003",
   "obs": "refeito em 15/10; tarefa das 18h bloqueada pelo classificador; publicado após 'publica CC5' de Sergio às 18:15. Story: 1ª tentativa deu 'resource does not exist', 2ª publicou; tarefa das 18h rodou 18:00–18:02 e não atualizou o status; post apareceu no perfil às 18:16:15; não saiu no Facebook pelo compartilhamento automático; Facebook: não sai por compartilhamento automático quando a publicação vem pela API",
   "permalink": "https://www.instagram.com/p/Deh5w0NkZD0/"
  },
@@ -58,6 +60,7 @@
   "story": "pergunta (publicado, media id 17958223539253469)",
   "tipo": "produto",
   "produto": "Mercusys ME60X",
+  "produto_id": "P005",
   "obs": "aprovado por Sergio em 19/10 23h52 ('pode agendar'); Story de pergunta acrescentado em 20/10 (gerar3); publicado com 'publica' de Sergio em 21/10 na tarefa das 9h55. Perfil não conferido pelo navegador (indisponível na nuvem); confirmado pelo media id e pelo permalink do Windsor",
   "permalink": "https://www.instagram.com/p/DewdtnZAkWf/"
  },
@@ -74,6 +77,7 @@
   "status": "publicado",
   "tipo": "reels",
   "produto": "Logitech Mobi Fold",
+  "produto_id": "P004",
   "arquivo": "reels/R001-mobi-fold/reels.mp4",
   "capa": "reels/R001-mobi-fold/capa.jpg",
   "publicado_em": "2026-10-20T23:59-03:00",
