@@ -20,6 +20,7 @@
   "story": "pergunta (publicado, media id 18337040053278055)",
   "tipo": "produto",
   "produto": "Logitech Pebble Mouse 2 M350s",
+  "produto_id": "P001",
   "permalink": "https://www.instagram.com/p/DepAaomjh40/",
   "obs": "aprovação de 16/10 falhou por limite de uso; reposta em 18/10, publicado com 'publica' de Sergio. Perfil não conferido pelo navegador (instagram.com bloqueado na rede da nuvem); confirmado pelo Windsor"
  },
@@ -146,6 +147,7 @@
   "programa": "shopee",
   "tipo": "produto",
   "produto": "Anker Soundcore P30i",
+  "produto_id": "P035",
   "produto_papel": "isca",
   "tema": "Ciência e Tecnologia (BNCC): como o cancelamento de ruído funciona",
   "story": "Fone com cancelamento de ruído apaga todo o barulho?",
