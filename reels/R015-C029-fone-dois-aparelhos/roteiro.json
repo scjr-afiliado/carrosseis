@@ -1,0 +1,82 @@
+{
+ "codigo": "C029",
+ "reel": "R015",
+ "titulo": "Celular e notebook no mesmo fone? Multiponto (Philips TAH2300)",
+ "pasta": "reels/R015-C029-fone-dois-aparelhos",
+ "carrossel_pasta": "operacao/carrossel/C029-2026-11-24-fone-dois-aparelhos-reel",
+ "slides": [
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C029/01.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C029/02.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C029/03.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C029/04.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C029/05.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C029/06.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C029/07.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C029/08.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C029/09.jpg"
+ ],
+ "falas": [
+  {
+   "id": "01_0",
+   "slide": 1,
+   "texto": "Celular e notebook no mesmo fone?",
+   "fala": "Celular e notebook no mesmo fone?"
+  },
+  {
+   "id": "01_1",
+   "slide": 1,
+   "texto": "Dá. Chama multiponto.",
+   "fala": "Dá. Chama multiponto."
+  },
+  {
+   "id": "02_0",
+   "slide": 2,
+   "texto": "2 aparelhos conectados ao mesmo tempo, segundo a Philips.",
+   "fala": "Dois aparelhos conectados ao mesmo tempo, segundo a Philips."
+  },
+  {
+   "id": "03_0",
+   "slide": 3,
+   "texto": "Mas a música toca de 1 por vez.",
+   "fala": "Mas a música toca de um por vez."
+  },
+  {
+   "id": "03_1",
+   "slide": 3,
+   "texto": "O outro fica livre para chamadas.",
+   "fala": "O outro fica livre para chamadas."
+  },
+  {
+   "id": "04_0",
+   "slide": 4,
+   "texto": "Música num aparelho e chamada no outro? A música pausa, e ao desligar, volta.",
+   "fala": "Música num aparelho e chamada no outro? A música pausa, e ao desligar, volta."
+  },
+  {
+   "id": "05_0",
+   "slide": 5,
+   "texto": "Com o fone desligado, segure o botão por 5 segundos.",
+   "fala": "Para conectar o segundo, com o fone desligado, segure o botão por cinco segundos."
+  },
+  {
+   "id": "08_0",
+   "slide": 8,
+   "texto": "Se precisar de um, o Philips TAH2300.",
+   "fala": "Se precisar de um, o Philips T A H dois três zero zero.",
+   "pronuncia": "TAH2300 = T A H, dois, três, zero, zero"
+  },
+  {
+   "id": "08_1",
+   "slide": 8,
+   "texto": "Segundo a Philips: multiponto e até cerca de 55 horas.",
+   "fala": "Segundo a Philips: multiponto e até cerca de cinquenta e cinco horas."
+  },
+  {
+   "id": "09_0",
+   "slide": 9,
+   "texto": "Comenta QUERO que eu te mando o link no direct.",
+   "fala": "Comenta QUERO que eu te mando o link no direct."
+  }
+ ],
+ "foto_produto": "FOTO PENDENTE: origem e modelo não verificados (ver fontes.txt, item 5)"
+}
