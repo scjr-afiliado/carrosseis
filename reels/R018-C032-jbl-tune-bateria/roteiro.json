@@ -1,0 +1,75 @@
+{
+ "codigo": "C032",
+ "reel": "R018",
+ "titulo": "A bateria do fone acabou na hora de sair? (JBL Tune 730BT)",
+ "pasta": "reels/R018-C032-jbl-tune-bateria",
+ "carrossel_pasta": "operacao/carrossel/C032-2026-11-27-jbl-tune-730bt-reel",
+ "slides": [
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C032/01.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C032/02.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C032/03.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C032/04.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C032/05.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C032/06.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C032/07.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C032/08.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C032/09.jpg"
+ ],
+ "falas": [
+  {
+   "id": "01_0",
+   "slide": 1,
+   "texto": "A bateria do fone acabou na hora de sair?",
+   "fala": "A bateria do fone acabou na hora de sair?"
+  },
+  {
+   "id": "01_1",
+   "slide": 1,
+   "texto": "Existe fone com carga rápida.",
+   "fala": "Existe fone com carga rápida."
+  },
+  {
+   "id": "02_0",
+   "slide": 2,
+   "texto": "Poucos minutos de recarga dão até 5 horas de uso, segundo a ficha do produto.",
+   "fala": "Poucos minutos de recarga dão até cinco horas de uso, segundo a ficha do produto."
+  },
+  {
+   "id": "03_0",
+   "slide": 3,
+   "texto": "A ficha fala em até 76 horas de bateria. A palavra \"até\" indica o máximo.",
+   "fala": "A ficha fala em até setenta e seis horas de bateria. A palavra até indica o máximo."
+  },
+  {
+   "id": "04_0",
+   "slide": 4,
+   "texto": "2 microfones que captam a sua voz nas chamadas e reduzem o ruído de fundo, segundo a ficha.",
+   "fala": "Dois microfones que captam a sua voz nas chamadas e reduzem o ruído de fundo, segundo a ficha."
+  },
+  {
+   "id": "05_0",
+   "slide": 5,
+   "texto": "Olhe a bateria, a conexão e o conforto: ele fica sobre a orelha, é dobrável e tem multiponto.",
+   "fala": "Olhe a bateria, a conexão e o conforto: ele fica sobre a orelha, é dobrável e tem multiponto."
+  },
+  {
+   "id": "08_0",
+   "slide": 8,
+   "texto": "Se precisar de um, o JBL Tune 730BT.",
+   "fala": "Se precisar de um, o JBL Tune sete trinta bê tê."
+  },
+  {
+   "id": "08_1",
+   "slide": 8,
+   "texto": "Segundo a ficha: até 76 horas, carga rápida e multiponto.",
+   "fala": "Segundo a ficha: até setenta e seis horas, carga rápida e multiponto."
+  },
+  {
+   "id": "09_0",
+   "slide": 9,
+   "texto": "Comenta QUERO que eu te mando o link no direct.",
+   "fala": "Comenta QUERO que eu te mando o link no direct."
+  }
+ ],
+ "foto_produto": "Foto do produto guardada por Sergio em Curadoria Afiliados/05-Produtos/JBL Tune 730BT; origem oficial não conferida (jbl.com.br bloqueado para o Claude)"
+}

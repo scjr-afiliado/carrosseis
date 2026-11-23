@@ -1,0 +1,75 @@
+{
+ "codigo": "C030",
+ "reel": "R016",
+ "titulo": "Quer ler mais, mas o celular não deixa? (Kindle 16 GB)",
+ "pasta": "reels/R016-C030-kindle-so-para-ler",
+ "carrossel_pasta": "operacao/carrossel/C030-2026-11-25-kindle-reel",
+ "slides": [
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C030/01.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C030/02.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C030/03.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C030/04.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C030/05.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C030/06.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C030/07.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C030/08.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C030/09.jpg"
+ ],
+ "falas": [
+  {
+   "id": "01_0",
+   "slide": 1,
+   "texto": "Quer ler mais, mas o celular não deixa?",
+   "fala": "Quer ler mais, mas o celular não deixa?"
+  },
+  {
+   "id": "01_1",
+   "slide": 1,
+   "texto": "Um aparelho feito só para ler.",
+   "fala": "Um aparelho feito só para ler."
+  },
+  {
+   "id": "02_0",
+   "slide": 2,
+   "texto": "Tela de 6 polegadas, antirreflexo, segundo a Amazon.",
+   "fala": "Tela de seis polegadas, antirreflexo, segundo a Amazon."
+  },
+  {
+   "id": "03_0",
+   "slide": 3,
+   "texto": "A luz frontal se ajusta, e o modo escuro deixa o texto claro em fundo escuro.",
+   "fala": "A luz frontal se ajusta, e o modo escuro deixa o texto claro em fundo escuro."
+  },
+  {
+   "id": "04_0",
+   "slide": 4,
+   "texto": "Até 6 semanas com uma carga, e varia com o uso.",
+   "fala": "Bateria de até seis semanas com uma carga, e isso varia com o uso."
+  },
+  {
+   "id": "05_0",
+   "slide": 5,
+   "texto": "Olhe a luz, o espaço e o peso: 16 GB e 158 g, segundo a Amazon.",
+   "fala": "Olhe a luz, o espaço e o peso: dezesseis gigas e cento e cinquenta e oito gramas, segundo a Amazon."
+  },
+  {
+   "id": "08_0",
+   "slide": 8,
+   "texto": "Se quiser um, o Kindle de 16 GB, modelo 2024.",
+   "fala": "Se quiser um, o Kindle de dezesseis gigas, modelo dois mil e vinte e quatro."
+  },
+  {
+   "id": "08_1",
+   "slide": 8,
+   "texto": "Segundo a Amazon: 6 polegadas e até 6 semanas de bateria.",
+   "fala": "Segundo a Amazon: seis polegadas e até seis semanas de bateria."
+  },
+  {
+   "id": "09_0",
+   "slide": 9,
+   "texto": "Comenta QUERO que eu te mando o link no direct.",
+   "fala": "Comenta QUERO que eu te mando o link no direct."
+  }
+ ],
+ "foto_produto": "Oficial da Amazon (amazon.com.br, B0CP31L73X), conferida em 23/11/2026; Sergio autorizou a foto da Amazon em 23/11/2026"
+}

@@ -1,5 +1,26 @@
 [
  {
+  "codigo": "C032",
+  "reel": "R018",
+  "titulo": "A bateria do fone acabou na hora de sair? (JBL Tune 730BT)",
+  "pasta": "reels/R018-C032-jbl-tune-bateria",
+  "data": "2026-11-27"
+ },
+ {
+  "codigo": "C031",
+  "reel": "R017",
+  "titulo": "A TV que você já tem pode ter streaming? (Fire TV Stick HD)",
+  "pasta": "reels/R017-C031-fire-tv-stick-streaming",
+  "data": "2026-11-26"
+ },
+ {
+  "codigo": "C030",
+  "reel": "R016",
+  "titulo": "Quer ler mais, mas o celular não deixa? (Kindle 16 GB)",
+  "pasta": "reels/R016-C030-kindle-so-para-ler",
+  "data": "2026-11-25"
+ },
+ {
   "codigo": "C029",
   "reel": "R015",
   "titulo": "Celular e notebook no mesmo fone? Multiponto (Philips TAH2300)",

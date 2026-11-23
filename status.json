@@ -402,5 +402,50 @@
   "tema": "multiponto: 2 aparelhos conectados, música de um por vez (Philips)",
   "ia": true,
   "obs": "Preparado em 23/11/2026 para 24/11. Foto oficial da Philips (philips.com.br) no slide 8. Multiponto conferido no manual PT e 55 h na página brasileira; Bluetooth 5.4 e alcance removidos (não verificados). Aguarda a voz de Sergio. Nada publicado."
+ },
+ "C030": {
+  "status": "aguardando_voz",
+  "tipo": "reel",
+  "reel": "R016",
+  "publicado_em": null,
+  "media_id": null,
+  "produto": "Kindle 16 GB (modelo 2024)",
+  "produto_id": "P021",
+  "link_vitrine": "https://link.amazon/B07149A61",
+  "produto_vitrine": "Kindle 16 GB (modelo 2024)",
+  "programa": "amazon",
+  "tema": "leitor de e-books: luz ajustável, antirreflexo e bateria (Kindle 16 GB, 2024)",
+  "ia": true,
+  "obs": "Preparado em 23/11/2026 para 25/11. Ficha aberta no navegador do app; revisão do Opus em 23/11/2026. Foto oficial da Amazon no slide 8. Sem preço, nota ou avaliações. Aguarda a voz de Sergio. Nada publicado."
+ },
+ "C031": {
+  "status": "aguardando_voz",
+  "tipo": "reel",
+  "reel": "R017",
+  "publicado_em": null,
+  "media_id": null,
+  "produto": "Amazon Fire TV Stick HD",
+  "produto_id": "P017",
+  "link_vitrine": "https://link.amazon/B03wv4Ood",
+  "produto_vitrine": "Amazon Fire TV Stick HD",
+  "programa": "amazon",
+  "tema": "o que a casa precisa para streaming na TV: HDMI, porta USB e Wi-Fi (Fire TV Stick HD)",
+  "ia": true,
+  "obs": "Preparado em 23/11/2026 para 26/11. Foto oficial da Amazon no slide 8 (produto e caixa, sem logos de terceiros). Porta USB na TV: texto na galeria da página da Amazon (\"Conecte o cabo incluso à porta USB da sua TV\"). Aguarda a voz de Sergio. Nada publicado."
+ },
+ "C032": {
+  "status": "aguardando_voz",
+  "tipo": "reel",
+  "reel": "R018",
+  "publicado_em": null,
+  "media_id": null,
+  "produto": "JBL, Fone de Ouvido Bluetooth Over-Ear, Tune 730BT",
+  "produto_id": "P036",
+  "link_vitrine": "https://link.amazon/B085xWyMB",
+  "produto_vitrine": "JBL, Fone de Ouvido Bluetooth Over-Ear, Tune 730BT",
+  "programa": "amazon",
+  "tema": "carga rápida e \"até\" de bateria no fone over-ear (JBL Tune 730BT)",
+  "ia": true,
+  "obs": "Preparado em 23/11/2026 para 27/11. Ficha só pela página da Amazon (jbl.com.br bloqueado para o Claude): conferir na JBL antes de gravar. Aguarda a voz de Sergio. Nada publicado."
  }
 }

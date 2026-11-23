@@ -1,0 +1,75 @@
+{
+ "codigo": "C031",
+ "reel": "R017",
+ "titulo": "A TV que você já tem pode ter streaming? (Fire TV Stick HD)",
+ "pasta": "reels/R017-C031-fire-tv-stick-streaming",
+ "carrossel_pasta": "operacao/carrossel/C031-2026-11-26-fire-tv-stick-reel",
+ "slides": [
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C031/01.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C031/02.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C031/03.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C031/04.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C031/05.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C031/06.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C031/07.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C031/08.jpg",
+  "https://raw.githubusercontent.com/scjr-afiliado/carrosseis/main/C031/09.jpg"
+ ],
+ "falas": [
+  {
+   "id": "01_0",
+   "slide": 1,
+   "texto": "A TV que você já tem pode ter streaming?",
+   "fala": "A TV que você já tem pode ter streaming?"
+  },
+  {
+   "id": "01_1",
+   "slide": 1,
+   "texto": "Pode, se ela tiver HDMI e você tiver Wi-Fi.",
+   "fala": "Pode, se ela tiver HDMI e você tiver Wi-Fi."
+  },
+  {
+   "id": "02_0",
+   "slide": 2,
+   "texto": "Ele conecta na entrada HDMI, sem bloquear as outras, segundo a Amazon.",
+   "fala": "Ele conecta na entrada HDMI, sem bloquear as outras, segundo a Amazon."
+  },
+  {
+   "id": "03_0",
+   "slide": 3,
+   "texto": "É alimentado pela própria TV, com o cabo USB-C incluso, segundo a Amazon.",
+   "fala": "É alimentado pela própria TV, com o cabo USB-C incluso, segundo a Amazon."
+  },
+  {
+   "id": "04_0",
+   "slide": 4,
+   "texto": "Imagem Full HD, com saída de 1080p, segundo a Amazon.",
+   "fala": "Imagem Full HD, com saída de mil e oitenta pê, segundo a Amazon."
+  },
+  {
+   "id": "05_0",
+   "slide": 5,
+   "texto": "Antes, confira: a TV precisa de entrada HDMI e porta USB, e a casa, de internet Wi-Fi.",
+   "fala": "Antes, confira: a TV precisa de entrada HDMI e porta USB, e a casa, de internet Wi-Fi."
+  },
+  {
+   "id": "08_0",
+   "slide": 8,
+   "texto": "Se precisar de um, o Fire TV Stick HD, da Amazon.",
+   "fala": "Se precisar de um, o Fire TV Stick HD, da Amazon."
+  },
+  {
+   "id": "08_1",
+   "slide": 8,
+   "texto": "Segundo a Amazon: Full HD, Wi-Fi 6 e controle por voz com Alexa.",
+   "fala": "Segundo a Amazon: Full HD, Wi-Fi seis e controle por voz com Alexa."
+  },
+  {
+   "id": "09_0",
+   "slide": 9,
+   "texto": "Comenta QUERO que eu te mando o link no direct.",
+   "fala": "Comenta QUERO que eu te mando o link no direct."
+  }
+ ],
+ "foto_produto": "Oficial da Amazon (galeria da página B0DVK166SV, imagem do produto e caixa fire tv stick HD), conferida em 23/11/2026; Sergio autorizou a foto da Amazon em 23/11/2026"
+}
