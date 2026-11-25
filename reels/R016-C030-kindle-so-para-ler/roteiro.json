@@ -1,7 +1,7 @@
 {
  "codigo": "C030",
  "reel": "R016",
- "titulo": "Quer ler mais, mas o celular não deixa? (Kindle 16 GB)",
+ "titulo": "Quer ler mais, mas o celular não deixa? (Kindle 16 GB, modelo mais recente)",
  "pasta": "reels/R016-C030-kindle-so-para-ler",
  "carrossel_pasta": "operacao/carrossel/C030-2026-11-25-kindle-reel",
  "slides": [
@@ -31,20 +31,20 @@
   {
    "id": "02_0",
    "slide": 2,
-   "texto": "Tela de 6 polegadas, antirreflexo, segundo a Amazon.",
-   "fala": "Tela de seis polegadas, antirreflexo, segundo a Amazon."
+   "texto": "A tela funciona até sob sol forte, segundo o manual da Amazon.",
+   "fala": "A tela funciona até sob sol forte, segundo o manual da Amazon."
   },
   {
    "id": "03_0",
    "slide": 3,
-   "texto": "A luz frontal se ajusta, e o modo escuro deixa o texto claro em fundo escuro.",
-   "fala": "A luz frontal se ajusta, e o modo escuro deixa o texto claro em fundo escuro."
+   "texto": "O modo noturno deixa o texto branco em fundo preto, e o brilho se ajusta.",
+   "fala": "O modo noturno deixa o texto branco em fundo preto, e o brilho se ajusta."
   },
   {
    "id": "04_0",
    "slide": 4,
-   "texto": "Até 6 semanas com uma carga, e varia com o uso.",
-   "fala": "Bateria de até seis semanas com uma carga, e isso varia com o uso."
+   "texto": "A letra e o espaço entre as linhas mudam, para ler do seu jeito.",
+   "fala": "A letra e o espaço entre as linhas mudam, para ler do seu jeito."
   },
   {
    "id": "04_1",
@@ -56,20 +56,20 @@
   {
    "id": "05_0",
    "slide": 5,
-   "texto": "Olhe a luz, o espaço e o peso: 16 GB e 158 g, segundo a Amazon.",
-   "fala": "Olhe a luz, o espaço e o peso: dezesseis gigas e cento e cinquenta e oito gramas, segundo a Amazon."
+   "texto": "Olhe o brilho, o modo noturno e a carga por USB-C, segundo o manual.",
+   "fala": "Olhe o brilho, o modo noturno e a carga por USB-C, segundo o manual."
   },
   {
    "id": "08_0",
    "slide": 8,
-   "texto": "Se quiser um, o Kindle de 16 GB, modelo 2024.",
-   "fala": "Se quiser um, o Kindle de dezesseis gigas, modelo dois mil e vinte e quatro."
+   "texto": "Se quiser um, o Kindle de 16 GB, o modelo mais recente.",
+   "fala": "Se quiser um, o Kindle de dezesseis gigas, o modelo mais recente."
   },
   {
    "id": "08_1",
    "slide": 8,
-   "texto": "Segundo a Amazon: 6 polegadas e até 6 semanas de bateria.",
-   "fala": "Segundo a Amazon: seis polegadas e até seis semanas de bateria."
+   "texto": "Segundo o manual da Amazon: tela que lê no sol e modo noturno.",
+   "fala": "Segundo o manual da Amazon: tela que lê no sol e modo noturno."
   },
   {
    "id": "09_0",
@@ -85,5 +85,5 @@
    "personagem": "mateus"
   }
  ],
- "foto_produto": "Oficial da Amazon (amazon.com.br, B0CP31L73X), conferida em 23/11/2026; Sergio autorizou a foto da Amazon em 23/11/2026"
+ "foto_produto": "Foto da Amazon enviada por Sergio (P021, 25/11/2026); especificações só do Guia do usuário do Kindle 2026 (Amazon), conferido em 25/11/2026"
 }
