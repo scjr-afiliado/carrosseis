@@ -389,11 +389,9 @@
   "obs": "publicado em 21/11/2026 20:34 pela Action painel-dados (a partir do registro pub: do Worker) (API oficial); QUERO ativo. Status gravado pela própria Action (fechar_status.py)."
  },
  "C029": {
-  "status": "aguardando_voz",
+  "status": "publicado",
   "tipo": "reel",
   "reel": "R015",
-  "publicado_em": null,
-  "media_id": null,
   "produto": "Philips TAH2300 (preto)",
   "produto_id": "P016",
   "link_vitrine": "https://link.amazon/B00fZAFjS",
@@ -401,7 +399,10 @@
   "programa": "amazon",
   "tema": "multiponto: 2 aparelhos conectados, música de um por vez (Philips)",
   "ia": true,
-  "obs": "Preparado em 23/11/2026 para 24/11. Foto oficial da Philips (philips.com.br) no slide 8. Multiponto conferido no manual PT e 55 h na página brasileira; Bluetooth 5.4 e alcance removidos (não verificados). Aguarda a voz de Sergio. Nada publicado."
+  "publicado_em": "2026-11-24T18:23-03:00",
+  "media_id": "18645363481024248",
+  "permalink": "https://www.instagram.com/reel/DgI6V25FPEt/",
+  "obs": "publicado em 24/11/2026 18:23 pela Action painel-dados (a partir do registro pub: do Worker) (API oficial); QUERO ativo. Status gravado pela própria Action (fechar_status.py). Antes da publicação: Preparado em 23/11/2026 para 24/11. Foto oficial da Philips (philips.com.br) no slide 8. Multiponto conferido no manual PT e 55 h na página brasileira; Bluetooth 5.4 e alcance removidos (não verificados). Aguarda a voz de Sergio. Nada publicado."
  },
  "C030": {
   "status": "aguardando_voz",
