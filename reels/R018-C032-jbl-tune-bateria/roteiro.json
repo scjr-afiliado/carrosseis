@@ -41,6 +41,13 @@
    "fala": "A ficha fala em até setenta e seis horas de bateria. A palavra até indica o máximo."
   },
   {
+   "id": "03_m",
+   "slide": 3,
+   "texto": "Que legal!",
+   "fala": "Que legal!",
+   "personagem": "mateus"
+  },
+  {
    "id": "04_0",
    "slide": 4,
    "texto": "2 microfones que captam a sua voz nas chamadas e reduzem o ruído de fundo, segundo a ficha.",
@@ -69,6 +76,13 @@
    "slide": 9,
    "texto": "Comenta QUERO que eu te mando o link no direct.",
    "fala": "Comenta QUERO que eu te mando o link no direct."
+  },
+  {
+   "id": "09_m",
+   "slide": 9,
+   "texto": "Vou ter que querer!",
+   "fala": "Vou ter que querer!",
+   "personagem": "mateus"
   }
  ],
  "foto_produto": "Foto do produto guardada por Sergio em Curadoria Afiliados/05-Produtos/JBL Tune 730BT; origem oficial não conferida (jbl.com.br bloqueado para o Claude)"

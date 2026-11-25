@@ -47,6 +47,13 @@
    "fala": "Bateria de até seis semanas com uma carga, e isso varia com o uso."
   },
   {
+   "id": "04_m",
+   "slide": 4,
+   "texto": "Só mais um!",
+   "fala": "Só mais um!",
+   "personagem": "mateus"
+  },
+  {
    "id": "05_0",
    "slide": 5,
    "texto": "Olhe a luz, o espaço e o peso: 16 GB e 158 g, segundo a Amazon.",
@@ -69,6 +76,13 @@
    "slide": 9,
    "texto": "Comenta QUERO que eu te mando o link no direct.",
    "fala": "Comenta QUERO que eu te mando o link no direct."
+  },
+  {
+   "id": "09_m",
+   "slide": 9,
+   "texto": "Vou ter que querer!",
+   "fala": "Vou ter que querer!",
+   "personagem": "mateus"
   }
  ],
  "foto_produto": "Oficial da Amazon (amazon.com.br, B0CP31L73X), conferida em 23/11/2026; Sergio autorizou a foto da Amazon em 23/11/2026"

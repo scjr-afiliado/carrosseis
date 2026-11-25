@@ -29,6 +29,13 @@
    "fala": "Pode, se ela tiver HDMI e você tiver Wi-Fi."
   },
   {
+   "id": "01_m",
+   "slide": 1,
+   "texto": "Gostei disso!",
+   "fala": "Gostei disso!",
+   "personagem": "mateus"
+  },
+  {
    "id": "02_0",
    "slide": 2,
    "texto": "Ele conecta na entrada HDMI, sem bloquear as outras, segundo a Amazon.",
@@ -69,6 +76,13 @@
    "slide": 9,
    "texto": "Comenta QUERO que eu te mando o link no direct.",
    "fala": "Comenta QUERO que eu te mando o link no direct."
+  },
+  {
+   "id": "09_m",
+   "slide": 9,
+   "texto": "Muito bom!",
+   "fala": "Muito bom!",
+   "personagem": "mateus"
   }
  ],
  "foto_produto": "Oficial da Amazon (galeria da página B0DVK166SV, imagem do produto e caixa fire tv stick HD), conferida em 23/11/2026; Sergio autorizou a foto da Amazon em 23/11/2026"
