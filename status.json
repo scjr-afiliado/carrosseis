@@ -420,11 +420,9 @@
   "obs": "Preparado em 23/11/2026 para 25/11. Ficha aberta no navegador do app; revisão do Opus em 23/11/2026. Foto oficial da Amazon no slide 8. Sem preço, nota ou avaliações. Aguarda a voz de Sergio. Nada publicado."
  },
  "C031": {
-  "status": "aguardando_voz",
+  "status": "publicado",
   "tipo": "reel",
   "reel": "R017",
-  "publicado_em": null,
-  "media_id": null,
   "produto": "Amazon Fire TV Stick HD",
   "produto_id": "P017",
   "link_vitrine": "https://link.amazon/B03wv4Ood",
@@ -432,7 +430,10 @@
   "programa": "amazon",
   "tema": "o que a casa precisa para streaming na TV: HDMI, porta USB e Wi-Fi (Fire TV Stick HD)",
   "ia": true,
-  "obs": "Preparado em 23/11/2026 para 26/11. Foto oficial da Amazon no slide 8 (produto e caixa, sem logos de terceiros). Porta USB na TV: texto na galeria da página da Amazon (\"Conecte o cabo incluso à porta USB da sua TV\"). Aguarda a voz de Sergio. Nada publicado."
+  "publicado_em": "2026-11-26T14:30-03:00",
+  "media_id": "18130510378852235",
+  "permalink": "https://www.instagram.com/reel/DgNpLYXxu2j/",
+  "obs": "publicado em 26/11/2026 14:30 pela Action painel-dados (a partir do registro pub: do Worker) (API oficial); QUERO ativo. Status gravado pela própria Action (fechar_status.py). Antes da publicação: Preparado em 23/11/2026 para 26/11. Foto oficial da Amazon no slide 8 (produto e caixa, sem logos de terceiros). Porta USB na TV: texto na galeria da página da Amazon (\"Conecte o cabo incluso à porta USB da sua TV\"). Aguarda a voz de Sergio. Nada publicado."
  },
  "C032": {
   "status": "publicado",
