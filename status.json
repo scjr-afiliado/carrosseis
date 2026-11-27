@@ -453,12 +453,16 @@
   "obs": "publicado em 25/11/2026 16:41 pela Action painel-dados (a partir do registro pub: do Worker) (API oficial); QUERO ativo. Status gravado pela própria Action (fechar_status.py). Antes da publicação: Preparado em 23/11/2026 para 27/11. Ficha só pela página da Amazon (jbl.com.br bloqueado para o Claude): conferir na JBL antes de gravar. Aguarda a voz de Sergio. Nada publicado."
  },
  "C033": {
-  "status": "aguardando_voz",
+  "status": "publicado",
   "tipo": "reel",
   "programa": "shopee",
   "ia": true,
   "rota": "plataforma",
   "produto": "Espelhos Retangulares com LED da Loja Inove",
-  "tema": "Reel de vídeo pronto criado pelo painel (sem o Claude)"
+  "tema": "Reel de vídeo pronto criado pelo painel (sem o Claude)",
+  "publicado_em": "2026-11-27T15:09-03:00",
+  "media_id": "18137083189669446",
+  "permalink": "https://www.instagram.com/reel/DgQSej8hRoJ/",
+  "obs": "publicado em 27/11/2026 15:09 pela Action painel-dados (a partir do registro pub: do Worker) (API oficial). Status gravado pela própria Action (fechar_status.py)."
  }
 }
