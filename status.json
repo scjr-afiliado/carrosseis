@@ -405,11 +405,9 @@
   "obs": "publicado em 24/11/2026 18:23 pela Action painel-dados (a partir do registro pub: do Worker) (API oficial); QUERO ativo. Status gravado pela própria Action (fechar_status.py). Antes da publicação: Preparado em 23/11/2026 para 24/11. Foto oficial da Philips (philips.com.br) no slide 8. Multiponto conferido no manual PT e 55 h na página brasileira; Bluetooth 5.4 e alcance removidos (não verificados). Aguarda a voz de Sergio. Nada publicado."
  },
  "C030": {
-  "status": "aguardando_voz",
+  "status": "publicado",
   "tipo": "reel",
   "reel": "R016",
-  "publicado_em": null,
-  "media_id": null,
   "produto": "Kindle 16 GB (modelo 2024)",
   "produto_id": "P021",
   "link_vitrine": "https://link.amazon/B07149A61",
@@ -417,7 +415,10 @@
   "programa": "amazon",
   "tema": "leitor de e-books: luz ajustável, antirreflexo e bateria (Kindle 16 GB, 2024)",
   "ia": true,
-  "obs": "Preparado em 23/11/2026 para 25/11. Ficha aberta no navegador do app; revisão do Opus em 23/11/2026. Foto oficial da Amazon no slide 8. Sem preço, nota ou avaliações. Aguarda a voz de Sergio. Nada publicado."
+  "publicado_em": "2026-11-27T12:53-03:00",
+  "media_id": "18098608811678050",
+  "permalink": "https://www.instagram.com/reel/DgQC3rOhbo0/",
+  "obs": "publicado em 27/11/2026 12:53 pela Action painel-dados (a partir do registro pub: do Worker) (API oficial). Status gravado pela própria Action (fechar_status.py). Antes da publicação: Preparado em 23/11/2026 para 25/11. Ficha aberta no navegador do app; revisão do Opus em 23/11/2026. Foto oficial da Amazon no slide 8. Sem preço, nota ou avaliações. Aguarda a voz de Sergio. Nada publicado."
  },
  "C031": {
   "status": "publicado",
